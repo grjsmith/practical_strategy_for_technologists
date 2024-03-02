@@ -38,37 +38,39 @@ After the meeting I got my people together, the ones who worked most closely wit
 
 The Five Whys is a simple and powerful tool to use. It is recommended that it be used in a group, not just to spread the cognitive load but also to make sure there is enough information to answer all the questions. The Five Whys approach is a way of working backwards through a problem to get to the root cause of a problem.
 
-Principles, behaviours, processes, training and expectations
-Having got to the root of the problem that needs to be solved the strategist now needs to understand what they have to help them solve the problem. The most important consideration to understand is the people.
+## Principles, behaviours, processes, training and expectations
 
-The military has been executing strategies longer than anyone else. It’s worth comparing and contrasting the way the military and business operate and how that impacts the execution of strategy. The military focuses a lot of time and money ensuring military personnel know what to expect of each other in different situations from mundane office work to operations in the field. This is summarised as training. Before a service person is asked to join their team and do their job they are subject to around a year of training. The training doesn’t end when they join their unit, specialisations and promotions sometimes require additional training and certification. Service personnel are taught what to expect from each other and what to expect from their managers and their leadership. They are taught how to use their equipment and given significant time to practise with that equipment in different situations. Once they are in their teams they are trained alongside other teams so they can understand what’s expected of their team by other teams and vice versa. Contrast that approach with technology organisations. Some large organisations have graduate programmes but they aren’t in every company. New engineers joining a technology company are often expected to be productive immediately and so often only experienced engineers are recruited. It’s possible those engineers might have a completely alien set of skills and expectations picked up from the organisations they started with. With most organisations adopting a Git-based source control system it isn’t too difficult to make a start in most organisations. Setting up development environments to work on legacy systems can be challenging but in most companies the focus is on getting developers working as quickly as possible and this has led to a standardisation on a set of technologies that can abstract some of the complexity away from the new engineer. This allows engineers to set their local environment up on their laptop but doesn’t mean they can function successfully in their team.
+Having got to the root of the problem that needs to be solved the strategist now needs to understand what tools they have available to help them solve the problem. The most important consideration to understand is the people.
+
+The military has been executing strategies longer than anyone else. It’s worth comparing and contrasting the way the military and business operate and how that impacts the execution of strategy. The military focuses a lot of time and money ensuring military personnel know what to expect of each other in different situations from mundane office work to operations in the field. This is summarised as training. Before a service person is asked to join their team and do their job they are subject to around a year of training. The training doesn’t end when they join their unit, specialisations and promotions sometimes require additional training and certifications. Service personnel are taught what to expect from each other and what to expect from their managers and their leadership. They are taught how to use their equipment and given significant time to practise with that equipment in different situations. Once they are in their teams they are trained alongside other teams so they can understand what’s expected of their team by other teams and vice versa. Contrast that approach with technology organisations. Some large organisations have graduate programmes but they aren’t in every company. New engineers joining a technology company are often expected to be productive immediately and so often only experienced engineers are recruited. It’s possible those engineers might have a completely alien set of skills and expectations picked up from the organisations they started with. With most organisations adopting a Git-based source control system it isn’t too difficult to make a start in most organisations. Setting up development environments to work on legacy systems can be challenging but in most companies the focus is on getting developers working as quickly as possible and this has led to a standardisation on a set of technologies that can abstract some of the complexity away from the new engineer. This allows engineers to set their local environment up on their laptop but doesn’t mean they can function successfully in their team.
 
 At Just Eat engineers owned and managed the services they built from start to finish. In my Site Reliability Engineering (SRE) department we put almost all of our energy into building and improving the tools the software engineers used to build and manage their services. This included the Amazon Web Services (AWS) cloud infrastructure. All the infrastructure-as-code (IAC) was Cloudformation and we stored variables in a Consul store. This meant that ideally we needed to hire software engineers that knew how to work with AWS. The interviews were primarily designed to assess whether the candidate was capable with C# and .Net, the language and ecosystem they’d be using to develop their services in. Most candidates were just asked: “Do you know AWS?” almost invariably they said yes and they were hired. It was common to find that they didn’t know AWS. None of them who came to us for help had ever lied in their interview. It was just that in their last company they only used AWS through the web console, or all the infrastructure was managed by someone else and all they had to do was run a command to deploy the application but having not seen any infrastructure before they didn’t know there was more to it. We also encountered people who had been using other tools that managed AWS on their behalf but didn’t know they were because it was never explained to them. The most common support requests we received were simply due to the software engineer not knowing how to do something with AWS itself. This shows that when asked people can think they know something without actually knowing something, through no fault of their own. They just have a different set of expectations of what knowing something means than the questioner. We have pairing exercises that we use during the interview process to ensure we have similar expectations when it comes to programming but we can’t apply that process to every aspect of a role.
 
 Technology organisations usually consider training to be a cost and not an investment. Training is usually considered an employee benefit and is the first thing to get cut when economic conditions get tough. This always reminds me of the old joke:
 
-Manager 1: “What if we train them and they leave?”
-Manager 2: “what if we don’t train them and they stay!?”
+**Manager 1:** “What if we train them and they leave?”
+<br>
+**Manager 2:** “what if we don’t train them and they stay!?”
 
 Universities still aren’t preparing software engineers to enter the workforce. Many graduates have never developed software in a team, they’ve never tried to extract requirements from non-technical stakeholders. They’ve never needed to resolve an incident in the dead of night. They’ve never participated in a post-mortem or needed to deploy their code to a cloud. Universities are only giving them the most basic development skills. This means new engineers face a daunting task when joining a new organisation. Coding bootcamps exist that do emphasise these aspects of life as a software engineer but these are still relatively rare.
 
 No strategy can be successful if the people involved can’t execute basic tasks so the strategist needs to lay some groundwork before they can hope to successfully execute their strategies. This groundwork might require strategies to implement but more usually take the form of Principles, behaviours, processes, training and expectations.
 
-Principles
+## Principles
+
 The first tool that can be applied is Principles. The act of creating a list of principles and supporting explanatory documents gets a team talking about what is important to them. They do this in a way that wouldn’t happen in a 1:1 or a design or planning session so it’s a great way for senior engineers to get to know each other and their leadership. Principles are also a useful tool when choices need to be made as they can provide some guidance or even a framework for choosing one solution over another. Principles are very useful for the strategist. Principles describe a set of expectations that a department or organisation is expected to share. Strategies can be designed assuming the principles will be true because the strategy and the principles back each other up. Someone going against both of those can be performance managed.
 
 One of the most famous public examples of principles driving and supporting strategy is Jeff Bezos’ infamous memo:
 
-All teams will henceforth expose their data and functionality through service interfaces.
-
-Teams must communicate with each other through these interfaces.
-
-There will be no other form of interprocess communication allowed: no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever. The only communication allowed is via service interface calls over the network.
-
-It doesn’t matter what technology they use. HTTP, Corba, PubSub, custom protocols — doesn’t matter.
-
-All service interfaces, without exception, must be designed from the ground up to be externalizable. That is to say, the team must plan and design to be able to expose the interface to developers in the outside world. No exceptions.
-
+>All teams will henceforth expose their data and functionality through service interfaces.
+>
+>Teams must communicate with each other through these interfaces.
+>
+>There will be no other form of interprocess communication allowed: no direct linking, no direct reads of another team’s data store, no shared-memory model, no back-doors whatsoever. The only communication allowed is via service interface calls over the network.
+>
+>It doesn’t matter what technology they use. HTTP, Corba, PubSub, custom protocols — doesn’t matter.
+>
+>All service interfaces, without exception, must be designed from the ground up to be externalizable. That is to say, the team must plan and design to be able to expose the interface to developers in the outside world. No exceptions.
 
 The memo was never intended to be public, as you can probably tell by the tone, it was made public accidentally. You can read more about that story here if you’re interested: https://gist.github.com/chitchcock/1281611
 
@@ -78,7 +80,8 @@ These principles also provide a great test for product choices. Clearly followin
 
 Principals are more usually derived in an inception workshop. This style of workshop has a great way of levelling the playing field for the people in the room; CTOs can collaborate on an equal footing with junior engineers and in so doing will agree a set of principles together. This is a powerful way of not only creating the principals but beginning the process of creating a mutually agreed set of appropriate behaviours.
 
-Behaviours
+## Behaviours
+
 You get the culture you tolerate. In order for an organisation to be able to execute a strategy it must have an environment where that’s possible. That environment has many components but by far the most important is the behaviours exhibited by the people within it. Environments that contain many ways to fail and few ways to be successful, where nothing is ever praised or where nothing is ever certain create cautious people who won’t commit strongly to anything. It’s impossible for people, who are protecting themselves, to commit to a strategy, in many cases, they can’t even recognise a strategy for what it is, even after they’ve been told, because to them everything is a trap and success is defined as avoiding traps. A similar thing happens when security, compliance and governance are emphasised without there being trustworthy and reliable processes, tools and systems in place to help people meet governance, compliance and security controls. The safe thing to do in those environments is not to do anything at all.
 
 This means that prior to the formulation of a business strategy the behaviours of the people within that environment should be managed. Changing those behaviours might require a strategy and if the goal is a significant transformation it almost certainly will. In such transformations I have a saying: “Make it easy to do the right thing and hard to do the wrong thing”. In a security and governance context that means creating processes, tools and systems that are secure by default, as opposed to needing security applied afterwards.
@@ -87,7 +90,8 @@ Changing the behaviours of people in organisations requires a two pronged approa
 
 Culture flows down from the top. If the organisation's leaders are displaying toxic behaviour then the rest of the organisation will inherit that behaviour. If leaders are always interrogating their people and nothing is ever celebrated then the rest of the organisation will do their best to stay out of the firing line and not step up and be bold.
 
-Processes
+## Processes
+
 The power of processes is vastly underestimated. Many organisations create processes without even realising the impact those processes have. In many cases while those processes achieve the primary goal they were created for they have inadvertent knock-on effects that are so widespread they aren’t even noticed. Processes are mentioned here because they have equal power to impede or assist with executing a strategy.
 
 An organisation I worked for recently had created lines of business and devolved budget authority to those lines of business. This gave each line of business tremendous power over their own destiny and allowed each line of business to be accountable for its success. This is a very powerful move that many organisations are too afraid to make. Unfortunately this organisation’s central finance division clearly wasn’t comfortable with the move and demanded such rigorous processes that they missed out on all the benefits of the strategy. The people who implemented those processes in the lines of business ended up creating a hostile environment where it was impossible to get anything done without their approval and so they just ended up creating bottlenecks in each line of business. This wasn't unique to any one line of business; the entire organisation ended up being the kind of place where every decision required five meetings with increasingly senior people.
@@ -96,14 +100,16 @@ This doesn’t mean creating processes should be avoided. Care must be taken to 
 
 To the strategist, processes represent a hard point in the strategic landscape. They are units of execution that can be relied upon. This is another reason why they should be constrained because as much as being able to rely on them can be useful, they also remove options. If processes are too large, changing them might well require a strategy.
 
-Training
+## Training
+
 Training in the technology industry has taken on a bizarre meaning that many other industries wouldn’t recognise. Training in technology today, means being sent on a 3-4 day course, to sit in a sterile classroom environment, to work through some sterile situations with minimal context and then return to work to forget all of it as very little effort is made to make use of the training. The net result is the employee has some vague sense that they have been invested in and they get something to add to their CV that hiring managers tend to ignore except in rare specific cases.
 
 Training is actually taking place every hour of every day. When someone is rewarded for submitting small, easily understood changes to a complex codebase, the other people in the team are being trained to work in smaller increments. When obnoxious, over-opinionated engineers who don’t listen to other people are promoted then everyone around them is given a lesson in what success looks like in that organisation. Every action taken is training for the people close to that action and those affected by the action. This is another example of why behaviours are so important because every behaviour tolerated, rewarded or punished is a training activity.
 
 When formulating a strategy it’s important to know what people are trained to do. At Zoopla we were moving away from an old approach of building on a large, complex codebase that no longer had any discernible rules. We were trying to encourage people to design smaller, discrete solutions that could be more easily understood and that wouldn’t just be magnets for more and more features. This was a formal strategy, supported by an architectural direction and everything else you’d expect to see in an organisation that was actively transforming. This included training. In my role of principal engineer I was involved in  onboarding new engineers. I would talk them through a high-level information architecture diagram of all of the organisation's technology. I would explain where it was difficult to make changes and where it was easy. I would stress where there was obvious space for new solutions that didn’t need to reference old technologies and data sets and give my opinion on what good implementations looked like. Finally I would offer a service as a reviewer on any solutions the engineers or their teams might be interested in selecting or developing. That training was important because it was usually the first time the new engineer was introduced to the wider context of the organisation’s technology and so it presented an opportunity to instil some key principles, values, behaviours and educate about some processes too.
 
-Expectations
+## Expectations
+
 Intelligent people need the mental space to exercise their free will when doing their jobs. They don’t need to be told what to do and how. That’s micromanagement. The best way to give someone the space to do a job but ensure it’s done to the right standard is to set expectations, trust and verify. Expectation management can span the entire gamut of a job from defining what job needs to be done all the way through to defining the quality levels expected, any aftercare that might be required, communications to customers, stakeholders and peers, reporting, etc.
 
 Objectives and Key Results (OKRs) are a great tool for setting expectations. They are frequently misused by people who think OKRs are just a fancy way of setting goals when in fact they are a very simple way to set expectations. A lot of words have been written about OKRs but if you’ve only seen them done poorly an OKR is nothing more than defining an Objective that needs to be achieved and a Key Result that can be used as evidence that the Objective was achieved.
@@ -112,24 +118,33 @@ A DevOps OKR might be: To build a CI/CD pipeline for deploying the software whic
 
 That OKR gives an intelligent engineer a clue as to the direction they should be thinking and tells them what success looks like. On its own that OKR could be dangerous because the engineer could, in theory, deploy solutions with known vulnerabilities, or that make unreasonable hardware demands but there is an expectation that OKRs don’t exist in a vacuum. For that particular OKR to be successful there will need to be some technology standards that define what languages and frameworks need to be supported and observability tools that will need to be interfaced with, what cloud should be used for hosting and the standards by which solutions are tested etc.
 
-Dave Williams, CIO at Induction Healthcare is the master of expectation management. No one who works for Dave is ever in any doubt about what’s expected of them. Even under trying circumstances Dave doesn’t resort to micromanagement he always finds a way to make his expectations clear. He does this in two ways. First he holds himself to higher standards of behaviour that he holds his people to and demonstrates that in the performance of all his duties. The second is that he has mastered the coaching technique of helping someone understand a problem by questioning. So he leads people to understand what’s expected of them by having them question themselves until it’s clear to them what they need to do. What’s so powerful about this technique is that the expectations are internalised. The person isn’t meeting the standards because they are forced to. They are meeting those expectations because they understand that they are necessary. With just a little practice and a little reward, people meet Dave’s expectations entirely unsupervised. Without really thinking about it they also pass these expectations on to their own employees. In operating this way Dave fulfils a number of Sun Tsu’s conditions. In embodying his expectations as he does; he establishes what Sun Tsu called the Moral Law and fulfils the role of Commander, he also establishes some aspects of method and discipline in the specific expectations he sets.
+Dave Williams, CIO at Trustpilot is the master of expectation management. No one who works for Dave is ever in any doubt about what’s expected of them. Even under trying circumstances Dave doesn’t resort to micromanagement he always finds a way to make his expectations clear. He does this in two ways. First he holds himself to higher standards of behaviour that he holds his people to and demonstrates that in the performance of all his duties. The second is that he has mastered the coaching technique of helping someone understand a problem by questioning. So he leads people to understand what’s expected of them by having them question themselves until it’s clear to them what they need to do. What’s so powerful about this technique is that the expectations are internalised. The person isn’t meeting the standards because they are forced to. They are meeting those expectations because they understand that they are necessary. With just a little practice and a little reward, people meet Dave’s expectations entirely unsupervised. Without really thinking about it they also pass these expectations on to their own employees. In operating this way Dave fulfils a number of Sun Tsu’s conditions. In embodying his expectations as he does; he establishes what Sun Tsu called the Moral Law and fulfils the role of Commander, he also establishes some aspects of method and discipline in the specific expectations he sets.
 
-Utmost Exertion of Powers
+## Utmost Exertion of Powers
+
 In his book: On War, General Carl Von Clauswitz starts by trying to create a science of military strategy. In order to do that he attempts to break war down into its constituent parts one of these parts he calls: Utmost exertion of powers where he says: “If we are to defeat the enemy, we must proportion our efforts to his powers of resistance.” If we apply the idea that in technology our enemy is the problem we are trying to solve we need to ensure that we have sufficient numbers of people with sufficient capabilities and resources to match the scale and complexity of the problem we’re trying to solve. It can be deduced from this that the timescales available are important. If the problem is very large it will require vast numbers of highly capable people and large budgets to tackle them. In most organisations boards are unwilling to make very long commitments of people and resources. The way forward then is to break the problem down into smaller problems or milestones. These problems should be scoped such that solving them is either trivial or brings significant business advantage. In this way confidence is gained, morale is improved and those who hold the budget might be convinced to make more resources and people available to tackle the rest of the problems. It also helps if the solution to each problem builds the organisation's knowledge as well as its confidence. In this way the execution of the strategy can also be an inspiration for other business ideas. This in turn reinforces the value of strategy and the strategist and again might unlock more people and resources for tackling the problem.
 
-Timescales for strategy
+## Timescales for strategy
+
 Defining the success criteria for each of the smaller problems is as much about timescales as it is about what needs to be achieved. Success might be considered to be achieved if the next round of funding is won. Looking at timescales that short is dangerous as it’s very easy to create a business that can’t grow to the next milestone. The timescale for a successful strategy needs to be close enough that the conditions won’t substantially change or become unmanageable but far enough away that substantial change can be achieved. There is also a human factor to be considered when choosing a timescale for a strategy. Humans have limited attention spans. A strategy that is too long term will not engage people as it will seem unrealistic or even if realistic it will be detached from people’s personal timescales. If the goals are ambitious enough then a long term strategy can inspire people and keep them motivated but significant milestones or proofs that can be celebrated along the way gives people an opportunity to unwind from their efforts and then refocus and step back in to work on the next milestone and the longer term goal. These are also the right moments for the strategist to engage with their stakeholders and ensure they are still working on the right problems and review the people and resources available to the strategy.
 
 One of the most famous long term goals was the moon landing. In the 8 years between John F Kennedy’s speech and the actual moon landing there was almost one significant strategic accomplishment each year:
 
-1961: President John F. Kennedy "I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to Earth."
-1962: John Glenn becomes the first American to orbit the Earth.
-1964: The first flight of the "dummy" Apollo spacecraft.
-1965: Gus Grissom and John Young take off in the first flight of a two-man Gemini capsule.
-1966: Michael Collins and Buzz Aldrin complete the first US spacewalks.
-1967: The first flight of a Saturn 5 rocket is successful.
-1968: The first orbit of the moon.
-1969: Neil Armstrong and Buzz Aldrin land on the moon.
+**1961:** President John F. Kennedy "I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on the moon and returning him safely to Earth."
+<br>
+**1962:** John Glenn becomes the first American to orbit the Earth.
+<br>
+**1964:** The first flight of the "dummy" Apollo spacecraft.
+<br>
+**1965:** Gus Grissom and John Young take off in the first flight of a two-man Gemini capsule.
+<br>
+**1966:** Michael Collins and Buzz Aldrin complete the first US spacewalks.
+<br>
+**1967:** The first flight of a Saturn 5 rocket is successful.
+<br>
+**1968:** The first orbit of the moon.
+<br>
+**1969:** Neil Armstrong and Buzz Aldrin land on the moon.
 
 It’s easy to look back and write off this effort but I’d encourage all readers to imagine a single project at their company that could be successfully completed over 8 years and survive 3 CEO’s!
 
@@ -137,23 +152,24 @@ This albeit extreme example is a great lesson in how to craft a long term strate
 
 It’s also worth reflecting that many people in NASA probably only contributed to one or two of those milestones. To them, at that time, the longer term goal was important but other life events were more important. They had families that needed them to be somewhere else or they had better job offers or they burned out and needed to change careers or take a break. They still contributed to the overall goal and still deserve their share of the glory but to them it wasn’t an 8 year mission; perhaps they only contributed for 6 months. This is another reason why a long term strategy needs milestones. There needs to be a way that people can contribute to portions of the strategy that are realistic to them and their lives.
 
-Strategy is based on deception
+## Strategy is based on deception
+
 At the end of the first chapter of Sun Tzu’s Art of War he writes:
 
-All warfare is based on deception.
-Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
-Hold out baits to entice the enemy. Feign disorder, and crush him.
-If he is secure at all points, be prepared for him. If he is in superior strength, evade him.
-If your opponent is of choleric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant.
-If he is taking his ease, give him no rest. If his forces are united, separate them.
-Attack him where he is unprepared, appear where you are not expected.
-These military devices, leading to victory, must not be divulged beforehand.
-Now the general who wins a battle makes many calculations in his temple ere the battle is fought. The general who loses a battle makes but few calculations beforehand. Thus do many calculations lead to victory, and few calculations to defeat: how much more no calculation at all! It is by attention to this point that I can foresee who is likely to win or lose.
-
+>All warfare is based on deception.
+>Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near.
+>Hold out baits to entice the enemy. Feign disorder, and crush him.
+>If he is secure at all points, be prepared for him. If he is in superior strength, evade him.
+>If your opponent is of choleric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant.
+>If he is taking his ease, give him no rest. If his forces are united, separate them.
+>Attack him where he is unprepared, appear where you are not expected.
+>These military devices, leading to victory, must not be divulged beforehand.
+>Now the general who wins a battle makes many calculations in his temple ere the battle is fought. The general who loses a battle makes but few calculations beforehand. Thus do many calculations lead to victory, and few calculations to defeat: how much more no calculation at all! It is by attention to this point that I can foresee who is likely to win or lose.
 
 Strategy requires deception too. In some cases it’s because the tactics needed to achieve the strategy can be incongruous. In some cases deception is a necessary defence against disruption. The strategist should think about disruption in the same way that Sun Tsu thinks about his enemies.
 
-Initial tactics might appear to contradict the strategic goals
+## Initial tactics might appear to contradict the strategic goals
+
 Many strategies require some set up, particularly strategies that rely on teams being able to perform autonomously like a microservice strategy. Successfully implementing a microservice strategy requires deception. If one day a CTO announced to the organisation that they’re going to adopt a microservice strategy it would be almost guaranteed to fail. Non-technology stakeholders would complain about the hundreds of hours of work that will be required just to recreate the business value that already exists in the current applications. Each development team would craft a different approach and possibly even choose different languages, frameworks and choose different technologies to implement them leading to unreliability and increased costs. Each team would choose where they wanted to start the initiative, some choosing services that offer no value, some choosing services that have multiple tight dependencies to existing systems meaning many other teams will get dragged into their problems. Every single one of these problems offers multiple avenues for disruption from inside and outside the organisation, the chances of success approaching such a problem head-on is negligible.
 
 Successfully implementing a microservice strategy requires deception. A successful microservice implementation can start with a single team. It can start with an opinionated CI/CD pipeline that’s optimised for a limited number of languages, frameworks and technologies. This rewards teams with an easier and more productive time if they stick to these languages, frameworks and technologies. It can start with a single team trail-blazing an approach and documenting their decision logs and lessons learned. It can start with the formation of a mission based team looking at implementing a single solution and figuring out how to integrate it with the existing technologies. It can start with a set of enabling services added to the existing technology stack to make it easier for newer approaches and technologies to work with it. It can start with an API gateway layer presenting services in a coherent way even if the back-end is a disorganised mess of different solutions. Any one of these tactics can be the first step to a successful microservice strategy but in every case the stated result is not a microservice strategy it’s some lesser, easier to imagine goal that presents less surface area for disruption.
@@ -166,7 +182,8 @@ Emergent opportunities is another reason why a level of deception is essential t
 
 Going back to Zoopla again, I discussed how, at Zoopla there was a legacy tech stack that I had no confidence in. I was forced to expend engineering effort to attempt to see if it could be made safer and more predictable. I didn’t think it could be but I had to try. That presented me with two opportunities. If the attempt failed, as I predicted, I could double-down on my strategy of moving fast by building new solutions rather than attempt to refactor old ones using the failure as an example of why my strategy was the correct one. If the attempt was successful I would have a much easier time phasing out the legacy technology using GraphQL as the API for the data it created and managed because implementing those changes would be safer and quicker. Either way my goal of building small, modular components with modern languages and frameworks would be achieved.
 
-In conclusion
+## Conclusion
+
 If there’s a problem but you aren’t sure how to define it, work backwards through the problem to find the problems that when solved will lead to the overall resolution, tools like the 5 whys are great for this.
 
 Once you have the problem, consider all the conditions in the organisation that affect the chances of a successful resolution. Identify if any of these conditions needs to change in order to allow the successful resolution of the main problem. If any of the conditions needs to change, rinse, and repeat the process for defining the problem that needs to be solved. When considering how to change the conditions present in an organisation remember that there are many different tools available that can help, namely: Principles, behaviours, processes, training and expectations.
