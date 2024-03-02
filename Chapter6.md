@@ -48,7 +48,7 @@ Machievelli goes on to say that the prince should learn the landscape of his pri
 
 The same is true for the strategists. The principality is replaced by the problem space. Hypothetical situations still need to be discussed with trusted confidants and peers. The strategist has more tools than these at their disposal though, tools like Risks, Assumptions, Issues and Dependency (RAID) logs, software tests, vulnerability tools, penetration tests and chaos monkey implementations all help the strategist formulate and create solutions for hypothetical problems. Nothing prepares an organisation for solving problems better than one that has optimised it’s flow of work so that nothing impedes their team’s progress.
 
-## Whether the erection of fortresses, and many other things which princes often do, are useful or injurious**
+## Whether the erection of fortresses, and many other things which princes often do, are useful or injurious
 
 >It has never happened that a new prince has disarmed his subjects; on the contrary rather, if he has found them unarmed, he has armed them, and in that way has made them as it were his own, and made those faithful who before were suspect; whilst those who were loyal to him before will remain so, and this will convert his subjects into partisans and supporters
 
