@@ -1,4 +1,4 @@
-# Chapter 7: Grand Strategy
+# Chapter 7: 20th Century tools
 
 If strategies describe the patterns we need to resolve problems, grand strategy describes the patterns needed to create an environment that can handle problems as a matter of course. Grand strategy is more complicated than strategy because Grand Strategy is for solving more complicated problems. A company is a response to a Grand Strategy problem, all of it. Whereas a strategy might conceivably impact just a single department or even a single team a Grand Strategy will always have a larger impact than that. In this chapter we’re going to examine some tools that can be used to design the grand strategy that our businesses need to be successful.
 

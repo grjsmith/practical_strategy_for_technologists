@@ -157,9 +157,35 @@ Baron De Jomini, General and Aide-de-Camp of the Emperor of Russia, wrote in his
 
 As discussed in chapters 2 and 4 a team and the organisation must be prepared to execute a strategy. If a team lacks the tools, the time and the skills and experience to successfully execute a strategy then the strategy will likely not result in any lasting result. Baron De Jomini knew this and this is a lesson the strategist needs to take to heart as well. In some respects this is the hardest problem the strategist faces. The military learned this lesson a long time ago. Soldiers aren’t recruited and put straight into their teams, they have basic training and then more training in their specific fields. There is no equivalent of this in most modern technical companies. This requires that the strategist needs to find a way to train and upskill their people to prepare them for the problems they will have to face. If the strategist needs to get some quick wins in order to prove their credibility then they will need the ability to inject some skills and experience into their teams.
 
+## Napoleonic Warfare and modern warfare
+
+One of the reasons why Napolean was so devastating during the early 1800s was a combination of strategies that came together to overwhelm his opponents. This combination of strategies included:
+
+- Speed, mobility and surprise
+- Devolution of missions to commanders.
+- Multi-disciplinary fighting forces (Corps D'Armée)
+- Deploying corps to multiple different fronts timed to arrive when they could surprise an enemy and force them to fight on multiple fronts.
+
+The Corps D'Armée was a command structure that allowed a commander to lead multiple different types of forces including, infantry, cavalry, artillery and support units. The commander was then given a mission to achieve and expected to use his initiative and experience to achieve the mission.
+
+Napoleonic warfare was characterized by "...its limitless variation and flexibility (https://www.napoleon-series.org/military-info/organization/c_armycorps.html).
+
+It's partly from these strategies that Clauswitz distilled "Utmost use of force". With this combination of strategies Napolean could put his forces exactly where he wanted them and rely on them to deploy themselves as well as they possibly could to achieve the mission.
+
+There's much here for the strategist to learn from. Having trusted people able to execute any part of the mission using their own initaitive, using multi-disciplinary or full-stack teams so they can overcome whatever obstacles might be in their way. Then deploying those teams against the same problem from multiple angles or different but related problems can have a devastating impact.
+
+Another reason for having multi-discipline teams is that they can create a visible impact with web components or pages so that senior leadership gain confidence in the strategy and confidence in the team's ability to execute.
+
+A lot has happened between the Napoleonic era and the modern world of warfare however there is something of a repeating pattern that's worth discussing.
+
+The US Marine Corps have a strategy called maneuver warfare which the Marine Corps publication, Warfighting (https://www.marines.mil/Portals/1/Publications/MCDP%201%20Warfighting.pdf), describes as: "...warfare by maneuver ... stems from a desire to circumvent a problem and attack it from a position of advantage rather than meet it straight on. Rather than pursuing the cumulative destruction of every component in the enemy arsenal, the goal is to attack the enemy "system"—to incapacitate the enemy systemically. Enemy components may remain untouched but cannot function as part of a cohesive whole. Rather than being viewed as
+desirable targets, enemy concentrations are generally avoided as enemy strengths. Instead of attacking enemy strength, the goal is the application of our strength against selected enemy weakness in order to maximize advantage. This tack requires the ability to identify and exploit such weakness. Success depends not so much on the efficient performance of procedures and techniques, but on understanding the specific characteristics of the enemy system. Maneuver relies on speed and surprise for without either we cannot concentrate strength against enemy weakness. Tempo is itself a weapon—often the most important. Success by maneuver—unlike attrition—is often disproportionate to the effort made..."
+
+This is a faster, more flexible version of Napoleon's strategy that takes advantage of higher quality intelligence and lighter combined arms doctrines. This is one of the reasons why Observability is so important. The strategists needs an understanding of the environment their technology is working within. The teams need to know how their applications are performing for customers in near real-time so they can make decisions about how best to deploy their time.
+
 ## Conclusion
 
-One of the themes of both Machievelli and Clauswitz's work was to face problems immediately and then to apply all of the resources available to solving them. This applies to updating versions of the libraries, we're using and solving problems in our organisations and our products. Both Machievelli and Clauswitz were trying to make a science out of their professions Machievelli, political leadership and Clauswitz, war but both recognised the wisdom in not letting problems build up.
+One of the themes of both Machievelli and Clauswitz's work was to face problems immediately and then to apply all of the resources available to solving them. This applies to updating versions of the libraries, we're using and solving problems in our organisations and our products. Both Machievelli and Clauswitz were trying to make a science out of their professions Machievelli, political leadership and Clauswitz, war but both recognised the wisdom in not letting problems build up. From Napoleon and the US Marine Corps the strategist can learn how powerful speed and flexibility can be.
 
 There is no such thing as business as usual in a product and technology organisation. Language shapes thought and even the concept that there could be a business as usual is a dangerous idea that should be changed as soon as possible. This idea should be replaced by the idea that product and technology organisations exist to solve problems and that those problems are constantly changing. Product and technology organisations need very smart people who are organised in such a way that they can easily reconfigure their teams to solve whatever novel problem might be the next most important problem. In addition to this they need to be empowered and sufficiently trained and resourced to solve a wide range of problems.
 
