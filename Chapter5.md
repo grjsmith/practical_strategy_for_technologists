@@ -1,6 +1,6 @@
 # Chapter 5: Ancient strategies
 
-In this chapter we’ll examine some very simple strategies that were the mainstay of military commanders in ancient China. These can seem overly simple in a modern business context but they are the foundations upon which more complex strategies are built. A modern strategy might involve several of these strategies operating in series or in parallel. The strategies are presented individually here with  examples where I have used them successfully.
+This chapter will introduce some very simple strategies that were the mainstay of military commanders in ancient China. These can seem overly simple in a modern business context but they are the foundations upon which more complex strategies are built. A modern strategy might involve several of these strategies operating in series or in parallel. The strategies are presented individually here with  examples where they have been used them successfully.
 
 The strategies were all chosen from the Thirty-Six Stratagems (Search Wikipedia for: Thirty-Six Stratagems).
 
@@ -284,7 +284,7 @@ This strategy, as it stands, isn’t particularly useful to the strategist tryin
 
 I earned an influential position at Zoopla. I supported a number of important initiatives and lent my support to good ideas that later became important initiatives. I also suppressed others that were not adding to the internal harmony of the organisation. Some of the initiatives I supported have been mentioned earlier such as supporting the approach of the data team and ensuring the SEO team were respected and valued. I did these primarily because I knew I would need their help later but also because it helped me amplify the work of good people who were bringing harmony from the chaos. More controversially I deliberately left other teams alone. The Listings team, who processed all the listing data from estate agents to get it on to Zoopla were not on the journey with the rest of us in Product and Tech. They thought they could evolve their ageing tech stack rather than invest in a more modern, cloud native approach. I wished them all success, there were not bad people on that team they just made a different bet to me. However I didn’t lend my weight to their efforts and instead over-emphasised the Search team who had to make the processed data usable and were embracing newer cloud-native approaches.
 
-This provides us with another general lesson about how we can use military strategies for business purposes. Strategies that the military uses to disrupt their enemies can be reversed to look at how support can be lent to allies. Strategies that include support for allies can be used directly. 
+This provides us with another general lesson about how we can use military strategies for business purposes. Strategies that the military uses to disrupt their enemies can be reversed to look at how support can be lent to allies. Strategies that include support for allies can be used directly.
 
 ## Chain stratagems (連環計, Lián huán jì)
 
@@ -294,4 +294,7 @@ Strategies should be thought of like an information flow diagram. Where a functi
 
 ## Conclusion
 
-These and some of the ancient greek strategies are the most ancient recorded. Yet many of them are applicable to common problems we find in our product and tech organisations today.
+The strategies listed in this chapter are some of the most ancient record and yet all of them can have modern applications with a little thought.
+
+The strategists enemies are the problems that need to be solved.
+The terrain the strategist operates on is knowledge, intellectial positions, opinion and feelings.

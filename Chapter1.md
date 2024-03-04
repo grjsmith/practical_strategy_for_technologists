@@ -100,4 +100,3 @@ Grand Strategies are complex, they aren’t for tackling a single objective but 
 Strategies aren’t plans, they aren’t mission statements, visions, goals, policies or anything else. Strategies are: **An identifiable pattern of actions that when performed in similar conditions will achieve the same results each time**. As such they offer the strategist a high degree of confidence of success.
 
 In considering problems as adversaries to be overcome we get access to strategies proven over thousands of years from every culture in the world. Study of these strategies will present solutions to a wide range of problems.
-

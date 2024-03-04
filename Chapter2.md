@@ -3,7 +3,7 @@
 The new definition of a strategy, proposed in chapter one mentions conditions:
 **An identifiable pattern of actions that when performed in similar conditions will achieve the same results each time.** This chapter will examine some of those conditions that the strategist needs to consider and exert some influence over before executing their strategy. The idea is to make those conditions as conducive to success as possible.
 
-### Sun Tzu’s Art of War
+## Sun Tzu’s Art of War
 
 A two-and-a-half thousand year old military treatise provides a great structure for considering the conditions under which a strategy is executed. In his first chapter Sun Tzu writes:
 
@@ -43,7 +43,7 @@ The maintenance of roads by which supplies may reach the army equates to **good 
 
 The control of military expenditure equates to a well scoped and managed **budget** to ensure the team has all the team members they need at the right seniority and skill and capability level and all the software and systems they need.
 
-### Managing the five constant factors
+## Managing the five constant factors
 
 A wide variety of tools and tactics are available to modern businesses that allow them to manage all of these prerequisite conditions.
 
@@ -51,23 +51,23 @@ A wide variety of tools and tactics are available to modern businesses that allo
 
 These tools and tactics will be presented in the reverse order to the way Sun Tzu presented them. Sun Tzu’s five constant factors build up to the most important one which is the morale of the people executing the strategy. No matter how well skilled, disciplined and well resourced teams are if they aren’t committed to their work they will never be successful.
 
-#### Method and Discipline
+### Method and Discipline
 
 It’s not a coincidence that new technology leaders often start by changing the organisational structures of their departments and the career frameworks of the roles reporting to them. Either they are also students of Sun Tzu or they have reached the same conclusion that Sun Tzu reached. In order for people to be effective in their roles they need to know where they fit in the organisation and the levels of influence and control they are expected to display. People also need to know what success looks like for the organisation, their team and themselves personally and what support is available to help them.
 
-#### Organisational Structures
+### Organisational Structures
 
 Organisational structures are always optimised for something and when designing them or working within them it’s important to know what they’re optimised for and what challenges that presents. Every system optimised for something intrinsically contains challenges for something else. For example an organisation structure optimised for rapid progress will often make cost accounting more difficult. Consider an organisation composed of autonomous cross-functional teams. Each team can form an idea into a product scope, build it, deliver it into production, test it on customers and maintain it as a product throughout its useful life and they can do this quickly, they can create a simple new product in a couple of months and know if it’s successful or not a few weeks later. For many product and technology organisations this sounds like a utopia. Consider this organisation from a financial accounting perspective. The cloud bill goes up and down by random amounts month on month, how do the finance team find out what the cause of that was and whether there’s a trend forming? How do they budget cloud costs next year? In modern businesses cloud costs are the second biggest line item in the budget after salaries and pensions so when businesses need to manage costs all eyes fall on the cloud costs. Now consider capitalisation of assets. If a new product can be created, deployed and considered a failure over a ten week period how could development time be capitalised against assets? The asset might not even be there when capitalisation is being considered. In both of these cases finance teams would be forced to form relationships with many teams, and work around many different schedules in order to get the information they need or initiate the changes that need to be made. Every organisation structure presents challenges. The trick to designing a good organisation structure is to choose what to optimise for and then mitigate the challenges.
 
 While I was Director of Site Reliability Engineering at Just Eat we had very high performing teams. They weren’t entirely cross-functional but they could move fast and they could quickly scale services up and down and flex their infrastructure to cope with new services and partners as they came along. This frequently led to anomalies in the cloud costs. We solved this by having a Service Management team. They helped the finance teams understand the cloud bills and they helped the engineering teams reduce costs when that was required. It was a great mitigation against what, to finance, looked like chaos. It then led to emergent capabilities that helped us coordinate zero-day security fixes and implement more proactive cost management solutions. This is an example of what I meant by designing solutions to mitigate the weaknesses or challenges inherent in an organisational design. 
 
-#### Career Frameworks
+### Career Frameworks
 
 Just as organisational structures help teams place themselves in the organisation and give their objectives some additional context so do career frameworks help individuals.
 
 As described in Herzberg's Hygiebe Factors <https://en.wikipedia.org/wiki/Two-factor_theory> Employees relationships with their manager is the source of the most important motivating factors so it shouldn’t come as a surprise that the career framework is important as it provides a context for that relationship. The expectations a manager and the organisation has on an individual is defined by their capability and experience and those have a direct impact on their seniority which is defined in the career framework. The career framework is also where the organisation forms a contract with the individual. Consistently meet these criteria, it says, and you will do well, consistently fail to meet these criteria and you will be subject to disciplinary action. The career framework then is an ideal place for a leader to formally communicate their expectations to their people.
 
-#### Product, delivery and engineering management discipline
+### Product, delivery and engineering management discipline
 
 Sun Tzu was concerned with getting his people where they needed to be and that they should be well fed, fit and healthy so they could fight. Today’s leaders are concerned with making sure their teams can execute on their objectives as quickly as possible. Making sure a team has the right objectives and priorities falls to the product management discipline. Making sure a team can execute on them as rapidly as possible falls to the delivery management discipline. Making sure a team can execute on their objectives successfully falls to the engineering management discipline. These aren’t necessarily roles, although it’s great if they are roles, these are disciplines or functions. Nothing stops a delivery manager from championing good product management practices and it should be expected that a good engineering manager would do the same and champion good delivery management practices as well.
 
@@ -75,7 +75,7 @@ In certain teams and in certain contexts these can be full-time jobs and hence b
 
 There’s no one-size-fits-all approach to leading teams and there’s a danger of over-standardisation. When this happens there are numerous negative effects. Ambitious engineering managers placed in charge of teams in stable environments create problems for everyone else by challenging what they see as out-of-date status quo positions without the big picture understanding of where the status quo is already being challenged in the organisation. This creates noise that needs to be dealt with. If left too long, the team will inevitably spend time on work that isn’t desired. This can poison a whole team as the work isn’t then accepted into the corpus of the software. Ambitious product managers and delivery managers forced to run stable teams will eventually leave but good product managers and delivery managers are exceptional communicators and even without necessarily intending it their frustration can have a knock-on effect to those around them.
 
-#### The trouble with Troikas
+### The trouble with Troikas
 
 Troikas are becoming increasingly popular at the moment. The idea is sound, unfortunately it rarely works in practice. A troika in this context would be a formal arrangement where a Product Manager, Delivery Manager and Engineering Manager lead  teams to build and manage a product.
 
@@ -89,7 +89,7 @@ If a product manager, delivery manager and an engineering manager can form a wor
 
 One of the reasons we were as successful as we were in Zoopla is because of just such a trio but it's telling that I, the engineer in the trio, had more than 10 years experience more than the other two. Had they been as experienced as me I suspect I wouldn’t have been able to keep up with them and perhaps we wouldn’t have been able to forge the great relationship that we had.
 
-#### Budgeting
+### Budgeting
 
 The final element of method and discipline that Sun Tzu defined was the control of expenditure. His reasons for caring about this are different to ours but it’s no less important a point. First of all, the budget must be controlled at appropriate levels. That means it can’t just be controlled by the executive team. Budget accountability must be devolved to all levels of the organisation. An executive  team, asking a group of managers how much money they need once a year or once a quarter is not going to yield helpful results. Managers at that level aren’t operating with the right perspective to answer that question and if they are then they aren’t operating at the right level of detail to do their day jobs well. Instead there need to be flexible structures in place to allow teams to draw on budget as they need to. This needs management but that’s hardly a difficult challenge.
 
@@ -101,11 +101,11 @@ It’s common practice for organisations to give the older, worse spec laptops t
 
 Similar examples happen with network engineering and security systems. The teams implementing these systems often have little or no engagement in the process of delivering business value and so it’s not their problem if the solutions they implement impact the ability for product teams to deliver value.
 
-#### Leadership tools
+### Leadership tools
 
 Before a strategy is defined and teams structured to deliver it the leader must be present and have understood the challenges facing them. The 30/60/90 day plan concept has been designed to help achieve this. The first 30 days are spent gathering information, Meeting the people in the organisation who understand all the challenges from outside threats to impediments within the organisation and those challenges  inherent in the nature of the business. The next 30 days are spent defining strategies based on this information. Ideally this is done in partnership with the leader’s direct reports. This is a great time to build morale amongst this group and establish expectations of behaviours that will be rewarded and coach disruptive behaviours. This activity not only achieves the primary goal of forming a strategy, it also gives early insight into who the leader can rely on in their organisation and who needs more support. This also gives the teams some insight into the personality and expectations of the new leader and establishes an initial impression of wisdom. The next 30 days are spent putting the prerequisites for the strategy in place. This will include some quick tactical wins that build morale with the teams. In a technology business this might be achieving some basic product goals but are more likely to be DevOps type objectives like Improving pipelines, establishing some automated test capability or clearing cloud access or budget blockers. These wins send two messages: one to the teams that the leader is in touch with the problems they are facing day-to-day and another to the leader’s peers and stakeholders that action is being taken and problems are being brought under control. These actions also establish an impression of sincerity, the leader really is here to help, they have said they’re here to help and now they are helping. The next virtue the leader needs to establish is benevolence. There are many ways to do this, it's sufficient at first, just to establish relationships with some key people. This doesn’t just mean the most effective, or the most senior people. The leader should also seek out the gossips and the popular people. The goal is not to be their friend, the leader must always maintain a distance from their people, but they should at least be a human being to them. The leader should also look for opportunities to display their courage. Hard decisions should be faced head on and if possible, in public. Courage and strictness go hand-in-hand in a good leader. Sometimes the opportunity to display courage is in facing a difficult employee and dealing with them. Although always remember: Praise in public, rebuke in private.
 
-#### Earth
+### Earth
 
 The strategist must understand the environment in which the business operates and the environment created by the business. Businesses either aim to be leaders or followers. Each presents different challenges but each requires the ability to make decisions quickly and execute on those decisions. This is where understanding the external and internal environment is so valuable. Externally the strategist is looking at the market the business operates in and those businesses it’s dependent on and further out to where trends, opportunities and challenges might emerge. Having identified something that requires action the strategist needs to understand how their business gathers information, makes decisions and takes action.
 
@@ -117,7 +117,7 @@ The strategist needs to determine the range of threats that they need to take in
 
 Compartmentalisation is an essential tool of the strategist. As with all things it needs to be used in moderation, too much and there won’t be any strategies there will just be tactics. Too little compartmentalisation will also result in no strategies because it’s impossible to mitigate the most extreme impacts of risks. This philosophy of moderation is useful when dealing with threats. Consider security, the most secure system is one that has no connections to any other systems and allows no physical access. Not only is it very secure it’s also useless. Many organisations have technology and security policies designed by people who have no accountability for achieving business results. This often results in computer systems that are so hard to use it’s difficult to achieve anything with them. This is a very secure system, the business is unlikely to be troubled by security threats or any significant business success.
 
-#### Threat modelling
+### Threat modelling
 
 Threat Modelling can be applied to any system and it provides an opportunity to inspect a system from the perspective of a variety of different threats. Threat modelling is usually championed by security people but it can work for any type of threat.
 
@@ -125,7 +125,7 @@ I’ve used threat modelling for identifying security risks and designing mitiga
 
 Threat modelling can start with assessing security threats but naturally leads a team to consider all manner of potential threats which can then be tackled each in turn. This is one of the ways public cloud was introduced in the British Government. It was very difficult to do anything on the low-spec, locked down machines and servers government IT provided. Teams demonstrated that a lot of government work could be done in the public cloud on their own laptops. These teams then tackled more and more complex problems, gradually finding modern solutions to the security problems that caused IT to lock everything down until only a very small number of use-cases still required the locked down machines and on-premise hosting solutions.
 
-#### Heaven
+### Heaven
 
 Businesses whose success is dependent on certain calendar events like valentines day for gifts businesses and black friday for ecommerce businesses are naturally very focused on these dates. It’s not uncommon to find change freezes and moratoriums planned weeks in advance of the key dates. One thing often missed by these businesses is identifying when it would be appropriate to be less risk averse; they rarely plan the rest of the year outside of those key dates.
 
@@ -137,12 +137,12 @@ Time zones are another temporal concern that provides challenges and opportuniti
 
 Between 2009-2012 I worked at Electronic Arts, specifically at the Playfish studio where we used to make social games on Facebook. We took full advantage of timezones. There is a correlation between time zones and the lifetime value of a social gaming customer. A customer in the far east would spend about half as much as a customer in western Europe who in turn would spend about half as much as a customer on the west coast of the USA over their life playing our games. Customers in the Philippines were avid social gamers and would play for hours a day. This presented us with a wonderful opportunity. If we rolled out the updates to our games at just the right time we would catch players in the Philippines who would engage with the new content and would encounter any bugs or poorly optimised features first. We then had 6-7 hours to fix what was wrong before players in Europe would wake up and experience those changes. If things were really bad we had another 5 hours before the east coast US would see those changes and another 3 hours before we risked exposing the most valuable players to any problems. If things were that bad we could always roll back before those customers were affected and they would never know about any of the problems.
 
-#### The moral law
+### The moral law
 
 Everything discussed up to now builds to this point. All the other four constant factors act as demotivating factors for the people in our organisations. Not accounting for seasonal factors and how the work fits into the working day means constant disruption which makes people unsettled and they can’t perform their best. Not accounting for logistics, organisation of the physical working environment and threats that face the organisation mean our teams have to spend their time thinking about and dealing with these problems rather than building value generating products. Making our people work within organisational structures not optimised for the work we’re asking them to do creates a tense and hostile working environment that doesn’t encourage people to give their best. Finally, not giving people good and clear leadership that they can look up to means we’ll never get the best out of them. All these factors then chip away at morale.
 
-#### Conclusion
+## Conclusion
 
-If we get all the constant factors right then we’re in a great position to execute our strategies. Without all five of them right we have to trust to hope and hope is not a strategy.
+The strategist needs to have all the conditions (or as Sun Tzu called them, constant factors) right if they are to stand a chance of having teams execute their strategies successgully. With even one not right the chances of successful execution diminish. The more conditions are wrong the lower the chances of success.
 
-Since the beginning of human history we have developed tools and techniques to optimise our work. Failing to learn about these and implement the most valuable ones reduces the chances of executing a strategy successfully.
+The strategist must avail themselves of all the management and leadership tools ever developed if they are to be successful in the most challenging environments.

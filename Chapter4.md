@@ -1,8 +1,8 @@
 # Chapter 4: Preparing for strategy
 
-If a strategy is an identifiable pattern of actions that when performed in similar conditions will achieve the same results each time then the key to a successful strategy is choosing the right pattern or patterns for the results you want to achieve given the conditions.
+If a strategy is an identifiable pattern of actions that when performed in similar conditions will achieve the same results each time then the key to a successful strategy is choosing the right pattern or patterns for the results that are needed.
 
-In chapter 2 we looked at the conditions and how those conditions can be modified. In this chapter we’ll look at defining the results. If we know what results we’re trying to achieve and the conditions that exist then we can select our strategy, combination of strategies or design new ones.
+Chapter 2 introduced the conditions that must to be managed in order to improve the chances of successfully executing a strategy and how those conditions can be modified. This chapter will examine how the strategist can define the results their strategies need to achieve. If the strategist knows that and can create the right conditions then they can select or design their strategy with confidence.
 
 The first step towards formulating a strategy that can be successful is to define how the world must be different afterwards. People tend to think in terms of solutions, not in terms of problems. It’s very common for someone to explain what problem they’re having by explaining the solution they’re thinking of implementing. In almost all simple cases this is a useful trait, it helps people get to conclusions with less effort and less time. It’s a problem because it becomes a habit and it gets over applied.
 
@@ -56,7 +56,7 @@ Universities still aren’t preparing software engineers to enter the workforce.
 
 No strategy can be successful if the people involved can’t execute basic tasks so the strategist needs to lay some groundwork before they can hope to successfully execute their strategies. This groundwork might require strategies to implement but more usually take the form of Principles, behaviours, processes, training and expectations.
 
-## Principles
+### Principles
 
 The first tool that can be applied is Principles. The act of creating a list of principles and supporting explanatory documents gets a team talking about what is important to them. They do this in a way that wouldn’t happen in a 1:1 or a design or planning session so it’s a great way for senior engineers to get to know each other and their leadership. Principles are also a useful tool when choices need to be made as they can provide some guidance or even a framework for choosing one solution over another. Principles are very useful for the strategist. Principles describe a set of expectations that a department or organisation is expected to share. Strategies can be designed assuming the principles will be true because the strategy and the principles back each other up. Someone going against both of those can be performance managed.
 
@@ -80,7 +80,7 @@ These principles also provide a great test for product choices. Clearly followin
 
 Principals are more usually derived in an inception workshop. This style of workshop has a great way of levelling the playing field for the people in the room; CTOs can collaborate on an equal footing with junior engineers and in so doing will agree a set of principles together. This is a powerful way of not only creating the principals but beginning the process of creating a mutually agreed set of appropriate behaviours.
 
-## Behaviours
+### Behaviours
 
 You get the culture you tolerate. In order for an organisation to be able to execute a strategy it must have an environment where that’s possible. That environment has many components but by far the most important is the behaviours exhibited by the people within it. Environments that contain many ways to fail and few ways to be successful, where nothing is ever praised or where nothing is ever certain create cautious people who won’t commit strongly to anything. It’s impossible for people, who are protecting themselves, to commit to a strategy, in many cases, they can’t even recognise a strategy for what it is, even after they’ve been told, because to them everything is a trap and success is defined as avoiding traps. A similar thing happens when security, compliance and governance are emphasised without there being trustworthy and reliable processes, tools and systems in place to help people meet governance, compliance and security controls. The safe thing to do in those environments is not to do anything at all.
 
@@ -90,7 +90,7 @@ Changing the behaviours of people in organisations requires a two pronged approa
 
 Culture flows down from the top. If the organisation's leaders are displaying toxic behaviour then the rest of the organisation will inherit that behaviour. If leaders are always interrogating their people and nothing is ever celebrated then the rest of the organisation will do their best to stay out of the firing line and not step up and be bold.
 
-## Processes
+### Processes
 
 The power of processes is vastly underestimated. Many organisations create processes without even realising the impact those processes have. In many cases while those processes achieve the primary goal they were created for they have inadvertent knock-on effects that are so widespread they aren’t even noticed. Processes are mentioned here because they have equal power to impede or assist with executing a strategy.
 
@@ -100,7 +100,7 @@ This doesn’t mean creating processes should be avoided. Care must be taken to 
 
 To the strategist, processes represent a hard point in the strategic landscape. They are units of execution that can be relied upon. This is another reason why they should be constrained because as much as being able to rely on them can be useful, they also remove options. If processes are too large, changing them might well require a strategy.
 
-## Training
+### Training
 
 Training in the technology industry has taken on a bizarre meaning that many other industries wouldn’t recognise. Training in technology today, means being sent on a 3-4 day course, to sit in a sterile classroom environment, to work through some sterile situations with minimal context and then return to work to forget all of it as very little effort is made to make use of the training. The net result is the employee has some vague sense that they have been invested in and they get something to add to their CV that hiring managers tend to ignore except in rare specific cases.
 
@@ -108,7 +108,7 @@ Training is actually taking place every hour of every day. When someone is rewar
 
 When formulating a strategy it’s important to know what people are trained to do. At Zoopla we were moving away from an old approach of building on a large, complex codebase that no longer had any discernible rules. We were trying to encourage people to design smaller, discrete solutions that could be more easily understood and that wouldn’t just be magnets for more and more features. This was a formal strategy, supported by an architectural direction and everything else you’d expect to see in an organisation that was actively transforming. This included training. In my role of principal engineer I was involved in  onboarding new engineers. I would talk them through a high-level information architecture diagram of all of the organisation's technology. I would explain where it was difficult to make changes and where it was easy. I would stress where there was obvious space for new solutions that didn’t need to reference old technologies and data sets and give my opinion on what good implementations looked like. Finally I would offer a service as a reviewer on any solutions the engineers or their teams might be interested in selecting or developing. That training was important because it was usually the first time the new engineer was introduced to the wider context of the organisation’s technology and so it presented an opportunity to instil some key principles, values, behaviours and educate about some processes too.
 
-## Expectations
+### Expectations
 
 Intelligent people need the mental space to exercise their free will when doing their jobs. They don’t need to be told what to do and how. That’s micromanagement. The best way to give someone the space to do a job but ensure it’s done to the right standard is to set expectations, trust and verify. Expectation management can span the entire gamut of a job from defining what job needs to be done all the way through to defining the quality levels expected, any aftercare that might be required, communications to customers, stakeholders and peers, reporting, etc.
 
@@ -168,7 +168,7 @@ At the end of the first chapter of Sun Tzu’s Art of War he writes:
 
 Strategy requires deception too. In some cases it’s because the tactics needed to achieve the strategy can be incongruous. In some cases deception is a necessary defence against disruption. The strategist should think about disruption in the same way that Sun Tsu thinks about his enemies.
 
-## Initial tactics might appear to contradict the strategic goals
+### Initial tactics might appear to contradict the strategic goals
 
 Many strategies require some set up, particularly strategies that rely on teams being able to perform autonomously like a microservice strategy. Successfully implementing a microservice strategy requires deception. If one day a CTO announced to the organisation that they’re going to adopt a microservice strategy it would be almost guaranteed to fail. Non-technology stakeholders would complain about the hundreds of hours of work that will be required just to recreate the business value that already exists in the current applications. Each development team would craft a different approach and possibly even choose different languages, frameworks and choose different technologies to implement them leading to unreliability and increased costs. Each team would choose where they wanted to start the initiative, some choosing services that offer no value, some choosing services that have multiple tight dependencies to existing systems meaning many other teams will get dragged into their problems. Every single one of these problems offers multiple avenues for disruption from inside and outside the organisation, the chances of success approaching such a problem head-on is negligible.
 
@@ -184,10 +184,10 @@ Going back to Zoopla again, I discussed how, at Zoopla there was a legacy tech s
 
 ## Conclusion
 
-If there’s a problem but you aren’t sure how to define it, work backwards through the problem to find the problems that when solved will lead to the overall resolution, tools like the 5 whys are great for this.
+If there’s a problem that's difficult to define, work backwards through the problem using tools like the 5 whys to identify a root cause.
 
-Once you have the problem, consider all the conditions in the organisation that affect the chances of a successful resolution. Identify if any of these conditions needs to change in order to allow the successful resolution of the main problem. If any of the conditions needs to change, rinse, and repeat the process for defining the problem that needs to be solved. When considering how to change the conditions present in an organisation remember that there are many different tools available that can help, namely: Principles, behaviours, processes, training and expectations.
+Once the problem has been identified, consider all the conditions in the organisation that affect the chances of a successful resolution. Identify if any of these conditions needs to change in order to allow the successful resolution of the main problem. If any of the conditions needs to change, rinse, and repeat the process for defining the problem that needs to be solved. When considering how to change the conditions present in an organisation remember that there are many different tools available that can help, namely: Principles, behaviours, processes, training and expectations.
 
 Once this is done, consider the timescales required to solve these problems to identify if a single, simple strategy is required or whether it will be necessary to run multiple strategies in series or even overlapping strategies in parallel.
 
-With the timescales in mind consider other avenues of disruption such as powerful stakeholders or chaotic team members and how you want to attempt to bring them on-side or use deception to manage the potential avenues for disruption. Consider the human timescales and present the strategy in easy to digest and comprehend packages. What matters is that the results are achieved, not that everyone knows how clever the strategist is.
+With the timescales in mind consider other avenues of disruption such as powerful stakeholders or chaotic team members and how they can be brought on-side or use deception to manage the potential avenues for disruption. Consider the human timescales and present the strategy in easy to digest packages. What matters is that the results are achieved, not that everyone knows how clever the strategist is.
