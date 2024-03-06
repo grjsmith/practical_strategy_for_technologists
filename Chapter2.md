@@ -9,7 +9,7 @@ A two-and-a-half thousand year old military treatise provides a great structure 
 
 >The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.<br>
 These are: **The Moral Law; Heaven; Earth; The Commander; Method and discipline.**<br>
-The **moral law** causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger.\
+The **moral law** causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger.
 **Heaven** signifies night and day, cold and heat, times and seasons.<br>
 **Earth** comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death.<br>
 **The Commander** stands for the virtues of wisdom, sincerity, benevolence, courage and strictness.<br>
@@ -143,6 +143,6 @@ Everything discussed up to now builds to this point. All the other four constant
 
 ## Conclusion
 
-The strategist needs to have all the conditions (or as Sun Tzu called them, constant factors) right if they are to stand a chance of having teams execute their strategies successgully. With even one not right the chances of successful execution diminish. The more conditions are wrong the lower the chances of success.
+The strategist needs to have all the conditions (or as Sun Tzu called them, constant factors) right if they are to stand a chance of having teams execute their strategies successfully. With even one not right the chances of successful execution diminish. The more conditions are wrong the lower the chances of success.
 
-The strategist must avail themselves of all the management and leadership tools ever developed if they are to be successful in the most challenging environments.
+The strategist must have all the management and leadership tools ever developed if they are going to be successful in the most challenging environments. Ideally the strategist won't have to know everything on their own they will be able to rely on capable leaders around them but a lot of organisations are struggling because of difficulties in this area.

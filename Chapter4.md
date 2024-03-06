@@ -186,7 +186,7 @@ Going back to Zoopla again, I discussed how, at Zoopla there was a legacy tech s
 
 If there’s a problem that's difficult to define, work backwards through the problem using tools like the 5 whys to identify a root cause.
 
-Once the problem has been identified, consider all the conditions in the organisation that affect the chances of a successful resolution. Identify if any of these conditions needs to change in order to allow the successful resolution of the main problem. If any of the conditions needs to change, rinse, and repeat the process for defining the problem that needs to be solved. When considering how to change the conditions present in an organisation remember that there are many different tools available that can help, namely: Principles, behaviours, processes, training and expectations.
+Once the problem has been identified, consider all the conditions in the organisation that affect the chances of a successful resolution. Identify if any of these conditions need to change in order to allow the successful resolution of the main problem. If any of the conditions need to change repeat the process for defining the problem. When considering how to change the conditions present in an organisation remember that there are many different tools available that can help, namely: Principles, behaviours, processes, training and expectations.
 
 Once this is done, consider the timescales required to solve these problems to identify if a single, simple strategy is required or whether it will be necessary to run multiple strategies in series or even overlapping strategies in parallel.
 
