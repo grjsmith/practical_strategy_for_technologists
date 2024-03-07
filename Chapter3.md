@@ -60,5 +60,5 @@ Strategies are important to a technology organisation for a number of reasons:
 
 - They give leadership and management additional tools to help ensure they achieve their objectives
 - They can be expressed as stories that, in turn, can go viral and take residency in people’s heads further reinforcing the message of the strategy
-- They allow intelligent people in prodct or mission-based teams scope to solve problems with whatever resources they have available without requiring expensive and time consuming planning and replanning exercises.
+- They allow intelligent people in product or mission-based teams scope to solve problems with whatever resources they have available without requiring expensive and time consuming planning and replanning exercises
 - They allow small groups of people to make changes that would otherwise be beyond their scope or capability.

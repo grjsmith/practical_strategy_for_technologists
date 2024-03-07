@@ -7,19 +7,23 @@ The new definition of a strategy, proposed in chapter one mentions conditions:
 
 A two-and-a-half thousand year old military treatise provides a great structure for considering the conditions under which a strategy is executed. In his first chapter Sun Tzu writes:
 
->The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.<br>
-These are: **The Moral Law; Heaven; Earth; The Commander; Method and discipline.**<br>
+>The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.
+<br>
+These are: **The Moral Law; Heaven; Earth; The Commander; Method and discipline.**
+<br>
 The **moral law** causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger.
 **Heaven** signifies night and day, cold and heat, times and seasons.<br>
-**Earth** comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death.<br>
-**The Commander** stands for the virtues of wisdom, sincerity, benevolence, courage and strictness.<br>
+**Earth** comprises distances, great and small; danger and security; open ground and narrow passes; the chances of life and death.
+<br>
+**The Commander** stands for the virtues of wisdom, sincerity, benevolence, courage and strictness.
+<br>
 **By Method and discipline**  are to be understood the marshalling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure.
 
 Looking at these through the lens of the 21st century it can be seen that what was true for a 5th century general is just as true for business leaders today.
 
 The **moral law** refers to the morale of the people in our teams. In order to execute a strategy successfully our people must believe that we’re doing the right thing for the right reasons. In product and technology organisations our people are intelligent and need to understand the wider context they are working in. The strategist needs to rely on the people in their teams achieving a succession of tactical objectives in order for the strategy to be successful. The support of the teams therefore is essential to the successful execution of a strategy. When people are crying out for strategy they’re telling their leaders that they have the support of the teams and the teams now want to deliver something significant, they want to be formed into something greater than they are individually and to achieve something that none of them could achieve on their own.
 
-**Heaven** signifies the temporal conditions affecting teams. Seasonality is a major factor in some businesses. Businesses with personalised gift products and florists are entirely dependent on Valentines day, Mothers day, Christmas and other significant holidays. Ecommerce businesses depend on black Friday and Christmas. Some European businesses shut down during the summer if another business depends on these companies then they need to plan for this seasonal disruption. All businesses operate in one or more timezones. Global businesses get a few quiet hours a day, while the sun is over the pacific and trading relaxes a little, businesses operating in just one or a few time zones don’t need the same kind of resiliency as they can work on systems during their quiet periods overnight. Many businesses have staff in different timezones. These businesses need to structure their work such that work that needs collaboration is done in the Goldilocks time when people in the different regions are online together. In more extreme cases where there is no Goldilocks time the work needs to be managed asynchronously and this requires a completely different approach. All of these factors must be considered, they have their advantages as well as their disadvantages that the strategist needs to design for.
+**Heaven** signifies the temporal conditions affecting teams. Seasonality is a major factor in some businesses. Businesses with personalised gift products and florists are entirely dependent on Valentines day, Mothers day, Christmas and other significant holidays. E-commerce businesses depend on black Friday and Christmas. Some European businesses shut down during the summer if another business depends on these companies then they need to plan for this seasonal disruption. All businesses operate in one or more timezones. Global businesses get a few quiet hours a day, while the sun is over the pacific and trading relaxes a little, businesses operating in just one or a few time zones don’t need the same kind of resiliency as they can work on systems during their quiet periods overnight. Many businesses have staff in different timezones. These businesses need to structure their work such that work that needs collaboration is done in the Goldilocks time when people in the different regions are online together. In more extreme cases where there is no Goldilocks time the work needs to be managed asynchronously and this requires a completely different approach. All of these factors must be considered, they have their advantages as well as their disadvantages that the strategist needs to design for.
 
 **Earth** represents the physical conditions the strategist needs to factor in. The most obvious ones being the ones Sun Tzu mentioned himself: distances, open ground, narrow passes. Logistics businesses invest a great deal in technology to optimise deliveries. Earth also includes dangers and security. The importance of security and the dangers inherent in not prioritising security appropriately include everything from fines to existential threats depending on the nature of the threat. Prioritising security appropriately includes the risks of over prioritising as well as under prioritising. Businesses that focus too much on security find themselves unable to keep up with their markets which presents a different existential threat.
 
@@ -35,7 +39,7 @@ The last of the five constant factors is **Method and discipline**; this describ
 
 > the marshalling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure.
 
-The marshalling of the army and its proper subdivisions describes an **organisational structure**. Badly designed organisational structures create blockers, well designed organisational structures remove blockers. There’s no perfect organisational structure; they must be optimised for the most important objectives. Strategies must either take these organisational structures into account or they must change them.
+The marshalling of the army and its proper subdivisions describes an **organisational structure**. Badly designed organisational structures create blockers, well designed organisational structures remove blockers. There’s no perfect organisational structure; they must be optimised for the most important objectives. Strategies must either take these organisational structures into account and mitigate their weaknesses or they must change them.
 
 The graduations of rank among the officers is a **career framework** and ensures the appropriate capabilities and temperament are deployed to manage the teams and their work.
 
@@ -47,7 +51,8 @@ The control of military expenditure equates to a well scoped and managed **budge
 
 A wide variety of tools and tactics are available to modern businesses that allow them to manage all of these prerequisite conditions.
 
->In his book The Art of War,  Baron De Jomini states that "*…strategy fixes the direction of movements, and that we depend upon tactics for their execution.*"
+In his book The Art of War, Baron De Jomini states that:
+>"*…strategy fixes the direction of movements, and that we depend upon tactics for their execution.*"
 
 These tools and tactics will be presented in the reverse order to the way Sun Tzu presented them. Sun Tzu’s five constant factors build up to the most important one which is the morale of the people executing the strategy. No matter how well skilled, disciplined and well resourced teams are if they aren’t committed to their work they will never be successful.
 
@@ -65,7 +70,7 @@ While I was Director of Site Reliability Engineering at Just Eat we had very hig
 
 Just as organisational structures help teams place themselves in the organisation and give their objectives some additional context so do career frameworks help individuals.
 
-As described in Herzberg's Hygiebe Factors <https://en.wikipedia.org/wiki/Two-factor_theory> Employees relationships with their manager is the source of the most important motivating factors so it shouldn’t come as a surprise that the career framework is important as it provides a context for that relationship. The expectations a manager and the organisation has on an individual is defined by their capability and experience and those have a direct impact on their seniority which is defined in the career framework. The career framework is also where the organisation forms a contract with the individual. Consistently meet these criteria, it says, and you will do well, consistently fail to meet these criteria and you will be subject to disciplinary action. The career framework then is an ideal place for a leader to formally communicate their expectations to their people.
+As described in Herzberg's Hygiene Factors <https://en.wikipedia.org/wiki/Two-factor_theory> Employees relationships with their manager is the source of the most important motivating factors so it shouldn’t come as a surprise that the career framework is important as it provides a context for that relationship. The expectations a manager and the organisation has on an individual is defined by their capability and experience and those have a direct impact on their seniority which is defined in the career framework. The career framework is also where the organisation forms a contract with the individual. Consistently meet these criteria, it says, and you will do well, consistently fail to meet these criteria and you will be subject to disciplinary action. The career framework then is an ideal place for a leader to formally communicate their expectations to their people.
 
 ### Product, delivery and engineering management discipline
 
@@ -127,7 +132,7 @@ Threat modelling can start with assessing security threats but naturally leads a
 
 ### Heaven
 
-Businesses whose success is dependent on certain calendar events like valentines day for gifts businesses and black friday for ecommerce businesses are naturally very focused on these dates. It’s not uncommon to find change freezes and moratoriums planned weeks in advance of the key dates. One thing often missed by these businesses is identifying when it would be appropriate to be less risk averse; they rarely plan the rest of the year outside of those key dates.
+Businesses whose success is dependent on certain calendar events like valentines day for gifts businesses and black friday for e-commerce businesses are naturally very focused on these dates. It’s not uncommon to find change freezes and moratoriums planned weeks in advance of the key dates. One thing often missed by these businesses is identifying when it would be appropriate to be less risk averse; they rarely plan the rest of the year outside of those key dates.
 
 This is something AOL did very well in the mid-late 90’s and early 2000’s. The AOL year revolved around Christmas. This always surprises people but in the late ‘90s-early and 2000’s a computer was a popular Christmas present and a lot of these computers came with AOL software installed. In the rare cases where it wasn’t we made sure every household had at least one AOL CD. This meant Christmas day was AOL’s busiest day. We did all the usual things that every business does to protect service on that day. What we did that, I later learned, was unusual was that we planned the rest of the year around Christmas. In practice this meant that the months immediately after Christmas were spent planning the year ahead. This meant assessing potential business opportunities against hosting and development costs. By spring development of new products was underway and I was waiting for new servers to arrive. Summer was spent developing and building infrastructure but with reduced staff levels as people took summer holidays. Autumn was the most intense time of year as teams rushed to finish products and get them launched because if they weren’t completed by the beginning of October there wouldn’t be time for them to get on to the new CDs and have supporting literature and marketing material printed and distributed. The US staff then disappeared for 4-5 days for thanksgiving. Finally came the pre-Christmas TV and magazine campaigns and then we battened down the hatches for Christmas. This was an incredibly effective strategy as can be seen by the success of AOL over those years.
 
@@ -143,6 +148,6 @@ Everything discussed up to now builds to this point. All the other four constant
 
 ## Conclusion
 
-The strategist needs to have all the conditions (or as Sun Tzu called them, constant factors) right if they are to stand a chance of having teams execute their strategies successfully. With even one not right the chances of successful execution diminish. The more conditions are wrong the lower the chances of success.
+The strategist needs to have all the conditions (or as Sun Tzu called them, constant factors) just right if they are to stand a chance of having teams execute their strategies successfully. With even one systemic disfunction the chances of successful execution diminish. The more conditions are wrong the lower the chances of success.
 
-The strategist must have all the management and leadership tools ever developed if they are going to be successful in the most challenging environments. Ideally the strategist won't have to know everything on their own they will be able to rely on capable leaders around them but a lot of organisations are struggling because of difficulties in this area.
+All of the conditions, or constant factors, lead to having an organisation that is set up to execute a strategy. This means that the first work of the strategist is to get the organisation to the point where it can execute a business strategy. That means the strategist must have, at their command, all the management and leadership tools ever developed if they are going to transform the most challenging environments.

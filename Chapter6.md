@@ -1,6 +1,6 @@
 # Chapter 6: Modern strategies
 
-In this chapter we’ll examine more modern strategies starting with Machievelli’s Letters to the Prince, written in 1513. Mavhiavelli has much to teach the strategist, in his book, Letters to the Prince, Machievelli attempts to make a science of leadership by distilling certain laws from observation, his experience as a diplomat, his study of history and his common sense. While Machiavelli was discussing what it meant to lead a city state in mediaeval Italy there are lessons for the modern strategist here as well.
+In this chapter we’ll examine more modern strategies starting with Machiavelli's Letters to the Prince, written in 1513. Machiavelli has much to teach the strategist, in his book, Letters to the Prince, Machiavelli attempts to make a science of leadership by distilling certain laws from observation, his experience as a diplomat, his study of history and his common sense. While Machiavelli was discussing what it meant to lead a city state in mediaeval Italy there are lessons for the modern strategist here as well.
 
 >The Romans therefore on seeing troubles far ahead, always strove to avert them in time and never permitted their growth merely for the sake of avoiding war, well knowing that the war would not be prevented, and that to defer it would only be an advantage to others…
 
@@ -18,17 +18,17 @@ These debates will usually conclude that it’s better, at this time, for the bu
 
 Everyday this situation continues and the problems get more complicated and more expensive to resolve. Some people might bring up the opportunity cost of implementing time consuming resolutions to these problems. The problems continue to grow in number and complexity and include more and more breaking changes. If the organisation is lucky progress slows to a halt and an investment case is made to solve the problems. A lot of capable people have left the organisation in frustration and now they need to bring in consultants to help and the cost of resolution is the opportunity cost of a 6-9 month period with no significant feature development plus several million in consultancy fees. If the organisation is unlucky the lack of progress or an exploited vulnerability destroys the business.
 
-There is no debate. There is no better time to upgrade software, resolve vulnerabilities, optimise infrastructure and actively manage the tests and the test runs than right now. Putting these hygiene tasks off, even for a day, is never to the organisation’s advantage. Mavhiavelli knew this in 1513.
+There is no debate. There is no better time to upgrade software, resolve vulnerabilities, optimise infrastructure and actively manage the tests and the test runs than right now. Putting these hygiene tasks off, even for a day, is never to the organisation’s advantage. Machiavelli knew this in 1513.
 
 All of these are problems that should be faced immediately because they add friction to the organisation every single day they exist and all it takes is one event that the organisation has no control of to cause a disaster that threatens the organisation’s existence.
 
-The strategist can learn from the lesson that Machievelli learned from the Romans. Don’t turn away from a difficult situation. As discussed previously it isn’t always right to tackle every problem head-on but it is necessary to tackle them and not shy away from them.
+The strategist can learn from the lesson that Machiavelli learned from the Romans. Don’t turn away from a difficult situation. As discussed previously it isn’t always right to tackle every problem head-on but it is necessary to tackle them and not shy away from them.
 
-In Chapter 5 of Letters to the Prince Machievelli talks about a prince taking over a new territory that has been accustomed to its own rule and concludes:
+In Chapter 5 of Letters to the Prince Machiavelli talks about a prince taking over a new territory that has been accustomed to its own rule and concludes:
 
 > …therefore the surest way of holding them is either to destroy them, or for the conqueror to go and live there.
 
-When an organisation has operated without leadership or with significant leadership gaps for a significant period of time the people will organise themselves around principles that make sense to them based on keeping out of trouble. When the strategist needs an organisation like this to behave differently no amount of town hall meetings, discussions about organisational or technology principals or rewriting of job descriptions will change the organisation's behaviour. As Machievelli points out there are two ways to change organisations like this: they can be destroyed or the strategist can work amongst them and change them from within.
+When an organisation has operated without leadership or with significant leadership gaps for a significant period of time the people will organise themselves around principles that make sense to them based on keeping out of trouble. When the strategist needs an organisation like this to behave differently no amount of town hall meetings, discussions about organisational or technology principals or rewriting of job descriptions will change the organisation's behaviour. As Machiavelli points out there are two ways to change organisations like this: they can be destroyed or the strategist can work amongst them and change them from within.
 
 In a modern context destroying an organisation can just mean undermining the informal structures that have formed in the absence of leadership. This can be done in a number of ways. Key people can be performance managed into operating in a way that is more useful. Processes can be changed or removed completely and replaced. Both of these approaches require enormous time and effort from leadership, management with support from people teams.
 
@@ -36,7 +36,7 @@ A more sympathetic approach, that requires considerably less effort, is to live 
 
 ## Of the duties of a prince in relation to military matters
 
-In the first half of Letters to the Prince Machievelli describes the different types of principalities that exist and describes how a prince might acquire and hold them citing numerous examples from history. At the start of the second half of his book he concludes:
+In the first half of Letters to the Prince Machiavelli describes the different types of principalities that exist and describes how a prince might acquire and hold them citing numerous examples from history. At the start of the second half of his book he concludes:
 
 >A prince then, should have no other thought or object so much at heart, and make no other thing so much his especial study, as the art of war and the organisation and discipline of his army…
 
@@ -46,7 +46,7 @@ The strategist needs to be constantly solving problems. Either they are addressi
 
 **The strategist then, should have no thought or object so much at heart as the study of solving problems.**
 
-Machievelli goes on to say that the prince should learn the landscape of their principality and condition their body so that the prince can lead their military. He also describes how the prince should exercise their mind discussing hypothetical military situations and studying historical accounts.
+Machiavelli goes on to say that the prince should learn the landscape of their principality and condition their body so that the prince can lead their military. He also describes how the prince should exercise their mind discussing hypothetical military situations and studying historical accounts.
 
 The same is true for the strategist. The principality is replaced by the problem space. Hypothetical situations still need to be discussed with trusted confidants and peers. The strategist has more tools than these at their disposal though, tools like Risks, Assumptions, Issues and Dependency (RAID) logs, software tests, vulnerability tools, penetration tests and chaos monkey implementations all help the strategist formulate and create solutions for hypothetical problems. Nothing prepares an organisation for solving problems better than one that has optimised it’s flow of work so that nothing impedes their team’s progress.
 
@@ -62,9 +62,9 @@ If we equate physical landscape and territory to ideas and problem spaces then f
 
 When technology organisations demand a specific language choice to always be used for solving a specific type of problem they aren’t trying to protect themselves from disruption from their competitors, they are trying to protect themselves from problems their own people might create. Mandating a specific language for building backend services allows an organisation to also mandate specific package versions that have been vetted by security and to execute a standard predefined test suite and use a repeatable model for capacity planning. All of these are solutions to problems that could be created by the teams within the organisation building the software.
 
-With that clarified Machievelli’s rule works as well for the strategist as it did mediaeval Italian princes. If we don’t fear problems caused by our people then we should have as few inviolable rules and principals as possible because that way the teams have the maximum freedom to choose the right solution to any problem they may face. If we fear that our people might create a problem for us then we should ensure they operate within well specified guidelines that we can use to secure that aspect of our problem space.
+With that clarified Machiavelli's rule works as well for the strategist as it did mediaeval Italian princes. If we don’t fear problems caused by our people then we should have as few inviolable rules and principals as possible because that way the teams have the maximum freedom to choose the right solution to any problem they may face. If we fear that our people might create a problem for us then we should ensure they operate within well specified guidelines that we can use to secure that aspect of our problem space.
 
-Three hundred years after Machieavelli wrote his Letters to the Prince Carl Von Clauswitz wrote On War. Like Machieavelli before him Clauswitz was trying to create a science form something that was previously considered an art. This was the first time someone had tried to make a scientific analysis of war.
+Three hundred years after Machiavelli wrote his Letters to the Prince Carl Von Clauswitz wrote On War. Like Machiavelli before him Clauswitz was trying to create a science form something that was previously considered an art. This was the first time someone had tried to make a scientific analysis of war.
 
 >War is a continuation of state policy by other means.
 
@@ -74,7 +74,7 @@ If our enemies are the problems we're trying to solve, then state policy would e
 
 **Solving problems is a continuation of business strategy by other means.**
 
-If we take Machieavelli’s statement:
+If we take Machiavelli's statement:
 
 >A prince then, should have no other thought or object so much at heart, and make no other thing so much his especial study, as the art of war and the organisation and discipline of his army…
 
@@ -84,7 +84,7 @@ And Clauswitz’s:
 
 Then we get **Solving problems is business as usual.**
 
-This philosophy is at the heart of what it means to to be a product and technology oprganisation and further reinforces that there is no calm, business-as-usual state that protects us from change, disruption and problem solving. The ultimate goal of the strategist in a modern organisation should be to leave behind them an organisation that looks for opportunity in every change and thinks of problems as their day-to-day business and isn't aiming for some rest state where everyone gets to relax. Instead our organisations should be striving for a state where everyone is empowered to solve the problems the business and products face every day and have all the tools and resources they need so solving those problems isn't emotionally and psychologically exhausting.
+This philosophy is at the heart of what it means to to be a product and technology organisation and further reinforces that there is no calm, business-as-usual state that protects us from change, disruption and problem solving. The ultimate goal of the strategist in a modern organisation should be to leave behind them an organisation that looks for opportunity in every change and thinks of problems as their day-to-day business and isn't aiming for some rest state where everyone gets to relax. Instead our organisations should be striving for a state where everyone is empowered to solve the problems the business and products face every day and have all the tools and resources they need so solving those problems isn't emotionally and psychologically exhausting.
 
 ## Utmost use of force
 
@@ -172,7 +172,7 @@ Napoleonic warfare was characterized by "...its limitless variation and flexibil
 
 It's partly from these strategies that Clauswitz distilled "Utmost use of force". With this combination of strategies Napolean could put his forces exactly where he wanted them and rely on them to deploy themselves as well as they possibly could to achieve the mission.
 
-There's much here for the strategist to learn from. Having trusted people able to execute any part of the mission using their own initaitive, using multi-disciplinary or full-stack teams so they can overcome whatever obstacles might be in their way. Then deploying those teams against the same problem from multiple angles or different but related problems can have a devastating impact.
+There's much here for the strategist to learn from. Having trusted people able to execute any part of the mission using their own initiative, using multi-disciplinary or full-stack teams so they can overcome whatever obstacles might be in their way. Then deploying those teams against the same problem from multiple angles or different but related problems can have a devastating impact.
 
 Another reason for having multi-discipline teams is that they can create a visible impact with web components or pages so that senior leadership gain confidence in the strategy and confidence in the team's ability to execute.
 
@@ -186,7 +186,7 @@ Key to Napolean's strategies and the US Marine Corps Maneuver Warfare is that th
 
 ## Conclusion
 
-One of the themes of both Machievelli and Clauswitz's work was to face problems immediately and then to apply all of the resources available to solving them. This applies to updating versions of the libraries, we're using and solving problems in our organisations and our products. Both Machievelli and Clauswitz were trying to make a science out of their professions Machievelli, political leadership and Clauswitz, war but both recognised the wisdom in not letting problems build up. From Napoleon and the US Marine Corps the strategist can learn how powerful speed and flexibility can be.
+One of the themes of both Machiavelli's and Clauswitz's work was to face problems immediately and then to apply all of the resources available to solving them. This applies to updating versions of the libraries, we're using and solving problems in our organisations and our products. Both Machiavelli and Clauswitz were trying to make a science out of their professions Machiavelli, political leadership and Clauswitz, war but both recognised the wisdom in not letting problems build up. From Napoleon and the US Marine Corps the strategist can learn how powerful speed and flexibility can be.
 
 There is no such thing as business as usual in a product and technology organisation. Language shapes thought and even the concept that there could be a business as usual is a dangerous idea that should be changed as soon as possible. This idea should be replaced by the idea that product and technology organisations exist to solve problems and that those problems are constantly changing. Product and technology organisations need very smart people who are organised in such a way that they can easily reconfigure their teams to solve whatever novel problem might be the next most important problem. In addition to this they need to be empowered and sufficiently trained and resourced to solve a wide range of problems.
 

@@ -1,7 +1,6 @@
 # Chapter 1: Introduction to strategy
 
-Throughout my career I’ve been a part of numerous meetings supposedly defining strategies and I was never satisfied with the experience. I now realise that none of these meetings actually defined strategies. Over the years I’ve been part of groups creating mission statements, vision documents and 
-objective and key result (OKR) statements. Over that time I’ve occasionally researched strategy and struggled to find anything written for technology or  business that wasn’t specifically a sales, marketing or social media strategy. That sets the scene for this book. This is the book I wished I’d found when I was trying to understand what strategy is and how it might be valuable to me and other engineers.
+Throughout my career I’ve been a part of numerous meetings supposedly defining strategies and I was never satisfied with the experience. I now realise that none of these meetings actually defined strategies. Over the years I’ve been part of groups creating mission statements, vision documents and objective and key result (OKR) statements. Over that time I’ve occasionally researched strategy and struggled to find anything written for technology or  business that wasn’t specifically a sales, marketing or social media strategy. That sets the scene for this book. This is the book I wished I’d found when I was trying to understand what strategy is and how it might be valuable to me and other engineers.
 
 The purpose of this first chapter is to examine the definition of strategy. This chapter will look at some simple strategies and examples of using them and  introduce the concept of a grand strategy.
 
@@ -46,20 +45,24 @@ There are defensive strategies as well as aggressive strategies. Consider a mult
 
 In its simplest implementation web sites are connected to the internet but only allow a single port to access them. They in-turn connect to applications via an API layer that only allows the web servers to connect on that same SSH port. These API servers are then the only servers allowed to connect to the data sources and again only on the port specifically configured for those data sources.
 
-This describes the classic concentric ring security model. The image on the right (Image courtesy of West Lothian Archaeological Trust, Jim Knowles, Frank Scott and John Wells) shows an aerial view of an ancient Ringfort.
+This describes the classic concentric ring security model. The image on the right (Image courtesy of West Lothian Archaeological Trust, Jim Knowles, Frank Scott and John Wells) shows an aerial view of an ancient Ring fort.
 
 <img src="images/Concentric Ring Security (1).png" alt="concentric ring security model" style=width:300px><img src="images/Multivallate_Ringfort_at_Rathrar_(Rathbarna_Enclosure_Complex),_Co_Roscommon,_Ireland.jpg" alt="aerial photo of a ringfort" style=width:300px align=right>
 <br />
 
-These are defensive strategies. When executed in the service of providing web applications to the internet it will work in any number of different situations. It can be deployed in AWS, Azure, Google Cloud Platform, in Data Centres, managed hosting services and various specialist PAAS solutions or any combination of those hosting solutions. It will work with any programming languages, frameworks and for any data source be it SQL, NoSQL or a document data store. In the military and private security contexts this is also known as the Perimeter Security Model. This strategy was used to construct fortifications for thousands of years and is just as useful today in a technology context.
+These are defensive strategies. When executed in the service of providing web applications to the internet it will work in any number of different situations. It can be deployed in AWS, Azure, Google Cloud Platform, in Data Centres, managed hosting services and various specialist Platform As A Service (PAAS) solutions or any combination of those hosting solutions. It will work with any programming languages, frameworks and for any data source be it SQL, NoSQL or a document data store. In the military and private security contexts this is also known as the Perimeter Security Model. This strategy was used to construct fortifications for thousands of years and is just as useful today in a technology context.
 
 I can speak to anyone with security, network engineering or infrastructure skills and discuss perimeter security or the concentric ring model and they’ll instantly have a mental model that we can discuss in more detail. This is one of the great powers of strategy. A strategy is a pattern and humans are natural pattern matching machines.
 
 ## The importance of planning
 
-When tackling larger problems or problems that, by their nature, require more time to solve, plans will often prove inadequate on their own. Plans are useful for solving short-term problems that are limited in scope. The reason why plans are not useful for larger or longer term initiatives is that they are easily disrupted. Hence the expression: "no plan survives contact with the enemy" Helmuth von Moltke the Elder. There's no such saying about strategy.
+When tackling larger problems or problems that, by their nature, require more time to solve, plans will often prove inadequate on their own. Plans are useful for solving short-term problems that are limited in scope. The reason why plans are not useful for larger or longer term initiatives is that they are easily disrupted. Hence the expression: 
 
-In technology when tackling short-term objectives with a small number of reasonably mature teams with a capable delivery management structure it is possible to create an accurate plan for about 6 weeks. Any further out than that and the potential for disruption  increases to the point where it can't be planned for. This disruption can take many forms: funding for the project can be revoked, a new company could be acquired, important members of the team can leave, essential dependencies such as infrastructure or core libraries might become unavailable or not behave as expected. Even if these dramatic events don’t occur small changes will. A good delivery manager will keep on top of these changes. They will lead mitigation attempts, replanning and rescoping but the longer this goes on for the more likely it is that these will overwhelm the teams. Seemingly small disruptions can have a chaotic effect and end up having a much larger impact than was initially predicted.
+>"no plan survives contact with the enemy" Helmuth von Moltke the Elder.
+
+There's no such saying about strategy.
+
+In technology when tackling short-term objectives with a small number of reasonably mature teams with a capable delivery management structure it is possible to create an accurate plan for about 6 weeks. Any further out than that and the potential for disruption  increases to the point where it can't be planned for. This disruption can take many forms: funding for the project can be revoked, a new company could be acquired, important members of the team can leave, essential dependencies such as infrastructure or core libraries might become unavailable or not behave as expected. Even if these dramatic events don’t occur small changes will. A good delivery manager will keep on top of these changes. They will lead mitigation attempts, replanning and re-scoping but the longer this goes on for the more likely it is that these will overwhelm the teams. Seemingly small disruptions can have a chaotic effect and end up having a much larger impact than was initially predicted.
 
 Strategies can be useful at almost any scale and over medium or long timescales ranging from months to years. Multiple strategies can be chosen and layered to protect initiatives or the teams tackling certain problems. Strategies can provide a flexible structure within which short-term plans can be successful.
 
@@ -99,4 +102,6 @@ Grand Strategies are complex, they aren’t for tackling a single objective but 
 
 Strategies aren’t plans, they aren’t mission statements, visions, goals, policies or anything else. Strategies are: **An identifiable pattern of actions that when performed in similar conditions will achieve the same results each time**. As such they offer the strategist a high degree of confidence of success.
 
-In considering problems as adversaries to be overcome we get access to strategies proven over thousands of years from every culture in the world. Study of these strategies will present solutions to a wide range of problems.
+Mission statements, visions, goals, policies and plans all have their use and their place, as does strategy. Some of these things can be used in service of strategic objectives and they will be presented in that context later in the book.
+
+If the strategist considers problems as their adversary or enemy that must be overcome then they gain access to thousands of years worth of battle-tested military strategies from every culture in the world. Study of these strategies will present solutions to a wide range of problems.
