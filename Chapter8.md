@@ -128,11 +128,57 @@ One of the common problems people new to strategy experience when trying to crea
 
 The strategy just needs to present the problems and solutions in a way that's easy for it's audience to understand. The strategy doesn't have to design an organisation structure or an operating model, it doesn't need to communicate all the changes that will take place in order to achieve the strategy, it doesn't have to change processes or introduce or change governance, technology or the skills, knowledge and capability of the people who will be implementing it.
 
-All those things can be done in different artefacts. The strategist will most likely be creating their strategy for and with people who are not comfortable with strategy. Some of those people will have achieved their positions because they pay close attention to detail. Those people will struggle with statements that lay out solutions but don't provide a step-by-step guide to implementing them. The strategist needs to take these people on a journey through these additional artefacts to make best use of these people's capabilities but also to allow the strategy to be as simple as it needs to be.
+All those things can be done in different artefacts. The strategist will most likely be creating their strategy for and with people who are not familiar with strategy. Some of those people will have achieved their positions because they pay close attention to detail. Those people will struggle with statements that lay out solutions but don't provide a step-by-step guide to implementing them. The strategist needs to take these people on a journey through these additional artefacts to make best use of these people's capabilities but also to allow the strategy to be as simple as it needs to be.
 
 ### Operating model
 
-Operating models are a concise statement about the primary functions of the business, they usually attempt to represent those functions visually. The idea is that anyone in the organisation can see their function represented in the operating model and see how their function will work with people, process, technology and data. Operating models are a great way to make sure the primary functions of the business are appropriately optimised. Operating models are one step below the strategy, in terms of abstraction from the detailed work. 
+Operating models (introduced in chapter 7) are a concise statement about the primary functions of the business and how they interact. Operating models are usually presented as a visual representation.
+
+The term primary functions means revenue generating or essential to support revenue generating functions everyday. Operating models will not show Human Resources, Finance, Legal or internal technical support functions. That isn't to say that a business doesn't need these functions but they don't need them every minute of everyday in to deliver their services to customers.
+
+The value of an operating model is that all the primary business functions are displayed on a single page. Relationships between each function are made clear by their relative position. Functions that operate in series will be presented in some sort of linear flow. Functions that operate in parallel, like platform services that service several functions, will be shown making it clear they have relationships with other functions simultaneously.
+
+In the very largest organisations operating models will be quite abstract often ignoring that the business is split into geographic territories. In smaller organisations the operating model maybe quite detailed in that it might name specific departments or even teams.
+
+The operating model has two primary purposes. The first is to go into a little more detail about how the strategy will be executed. Specifically which functions will exist and what relationships they will have with each other to a support the execution of the strategy. The second purpose is testing. The operating model is the first test to determine if the organisation can execute the strategy. If the strategy requires two, currently, separate functions to work closely together it might highlight that a customer-client relationship will be subject to prioritisation problems and might cause the separation of those functions to be reconsidered. The operating model isn't just testing whether the strategy can be executed it might also be used to call into question the strategy itself. If the business isn't currently organised to execute the strategy that might mean the business needs to be re-organised but it might also mean that the strategy is inappropriate for this business. There is a trap for the unwary strategist here. A strategy can never be too ambitious. This concern may be raised by those unfamiliar with strategy. When they are looking at the strategy and looking to find a plan but can't find one they will either conclude that the strategy is nonsense because it has no plan or that it's too ambitious because this business isn't ready for the kind of vision being proposed. If a business is currently ready for a given strategy, it doesn't need a strategy.
+
+The second set of tests happens when the strategy and the operating model are published. Anyone in the organisation, who is involved in the businesses primary functions will see the sorts of relationships they are expected to have with other functions of the business and they can examine it and determine how their function will need to change and how their relationships with other functions will change. This might highlight inefficiencies that may have to be mitigated.
+
+A great example of where this has value is when a business is considering creating a platform type function. The operating model explicitly calls out who that platform function is providing services to and everyone can see how many different types of interactions they'll need to support and that then leads to the next set of questions about capacity and the variety of expertise that will be needed in that platform function. This is a great way to determine how technology functions should operate in businesses.
+
+-------------------insert some example operating models
+
+The strategy describes what the business is going to do. The operating model follows it and describes what functions the business will need in order to execute those functions.
+
+### The organisational structure
+
+Once an operating model has been designed, the next action is create an organisational structure. The creation of the organisational structure is another opportunity to test the strategy and the first opportunity to test the operating model. The organisational structure is the next level down in detail explaining how the business will execute the strategy. This is where territory divisions can be shown. The organisational structure isn't limited to just primary business functions but every function, including supporting functions show up.
+
+The creation of the organisational structure presents an opportunity to identify specific, detailed problems that will hinder the execution of the strategy.
+
+The first such problem is span of control. The organisational structure will show if a particular business function is actually several distinct functions hiding in one box on the operating model. A classic example of this is when a smaller organisation grows and suddenly realises that the team who are supporting developers are the same team who are building everyone's laptops and providing internet connectivity and supporting the companies products after hours. At a certain scale this is no longer viable and one by one these different functions need to split out. Span of control also refers to just how many people are being managed by an individual. The organisational chart exposes this clearly for all to see.
+
+The second problem the organisational structure highlights is duplication. In larger organisations where the business has created divisions by product or by territory it's common to find useful functions to be replicated. Business intelligence functions are commonly replicated because they are so useful. Everyone needs data to make good decisions. So if a particular territory or division needs data and constantly finds it's needs deprioritised it will find a way to fund the creation of it's own data function. This is known as Shadow IT. If this hasn't shown up during the creation of the operating model, it will definitely show up during the creation of the organisational structure. When these duplications are found they should cause the operating model to be inspected again. Thought should be given to whether there should be a single platform servicing all the teams or whether that caused this problem in the first place and whether a hub and spoke or self-service model or hybrid should be considered. This should also raise questions about whether appropriate data governance was being followed by all these additional business intelligence functions.
+
+### Principles, behaviours, processes, training and expectations
+
+The strategy considers the business as a whole, the environment it operates in and the customers it services. The operating model zooms in on the business and describes how it operates. The organisational structure zooms in further and considers divisions, products, territories, departments and teams. The last level to look at is the people, processes and technologies and whether they are ready to execute the strategy. Initially this manifests itself in the question: "...but are our people capable of working this way?"
+
+Discussed extensively in Chapter 4, **principles, behaviours, processes, training and expectations** are what prepare an individual to perform their role in the strategy.
+
+This is the next test of the organisational structure and the operating model. At this stage the strategy has been through numerous tests, as has the operating model. The operating model was the first place that assumptions about the organisation and it's capabilities were made. When the organisational structure was created these assumptions were assumed to be acceptable because they would be tested by the organisational structure. With the organisational structure in place the next level of detail is to identify if each division, department and team is capable of operating as it is being asked to. If the answer to these questions is ever no. Then it's time to make sure that what is being asked by the organisational structure is reasonable. Are there teams with too many customers with disparate needs? Are teams guaranteed to fail because they're being asked to be expert in too many things. Is the strategy pushing the organisation to focus on a lot of new things and the organisational structure has focused exclusively on new things and not sufficiently on those functions that, currently, generate all the revenue?
+
+If all of that is in order then it is time to focus on the people themselves and preparing to give them what they need in order to play their part.
+
+### The communication plan
+
+
+
+
+
+
+
+
 
 
 
