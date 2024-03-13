@@ -172,6 +172,13 @@ If all of that is in order then it is time to focus on the people themselves and
 
 ### The communication plan
 
+The final part of the pre-work before executing the strategy is communicating the strategy and the organisational changes. Communicating strategy is as complicated as executing a strategy and a great deal of care must be taken in designing and planning the communication.
+
+The communication plan presents the last opportunity to test the strategy, the operating model, the organisation structure and all the actions that need to be taken to get the organisation ready to execute the strategy. If it hasn't already been tested with finance, legal, HR, IT, security, facilities and governance and compliance organisations this is the last responsible moment to engage with those groups.
+
+There will not be one communication to rule them all. Communication needs to be context sensitive so the message to the board and the senior leadership team will be entirely different to the message that is sent to directors, heads of department, managers and the people in the teams. The people in the teams are not homogenous either and so there should be different messages targeted at their specific needs and concerns. People in Customer Care have a different set of needs and concerns than the people building software and HR for example.
+
+
 
 
 
