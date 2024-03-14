@@ -118,7 +118,7 @@ and a series of opportunities:
 
 #### Australian Government Data Strategy 2021-2024 Review
 
-The Australian Government Data Strategy takes an intelligent approach to problem statements. Instead of just stating clear problem instead it expresses needs and challenges. These are clear and would be easy to dispute or support for anyone trying to implement the strategy in their team or department.
+The Australian Government Data Strategy takes an intelligent approach to problem statements. Instead of just stating clear problems instead it expresses needs and challenges. These are clear and would be easy to dispute or support for anyone trying to implement the strategy in their team or department.
 
 There are a clear set of priorities that are built on a previous set of priorities. So there is clear progression and a sense of a journey.
 
@@ -146,7 +146,24 @@ The second set of tests happens when the strategy and the operating model are pu
 
 A great example of where this has value is when a business is considering creating a platform type function. The operating model explicitly calls out who that platform function is providing services to and everyone can see how many different types of interactions they'll need to support. That then leads to the next set of questions about capacity and the variety of expertise that will be needed in that platform function. This is a great way to determine how technology functions should operate in businesses.
 
--------------------insert some example operating models
+The hexagonal operating model, shown below, is often used to describe how a variety of business functions work together, in a clockwise flow, to support some central business goal or essential business feature. It might be used to describe how a number of data functions process data to achieve different goals but with a governance function in the middle of them.
+
+It might also be used to show how a number of processes and technologies are deployed and integrated to serve a central business objective.
+
+<img src="images/hexagonal_operating_model.png" alt="hexagonal operating model">
+</br>
+</br>
+
+The linear arrows operating model has fallen out of fashion recently but it was used to try and communicate that the business was relatively simple and involved a set of teams or processes that occurred one after another. While no business is really this simple the operating model focuses only on the primary business functions and this operating model tells the story of a set of teams who hand over from one to another.
+
+<img src="images/linear_arrows_operating_model.png" alt="linear arrows operating model">
+</br>
+</br>
+The infinity operating model was very popular in the 2010's where it was often used to explain the DevOps paradigm where it was trying to get across the idea that teams build software and operate it. The infinity operating model is also often used to communicate the flow continuous learning flow of good product teams where they build the products, experiment with product features, learn what works and what doesn't and go back to the learning and experimenting.
+
+<img src="images/infinity_operating_model.png" alt="Infinity operating model">
+</br>
+</br>
 
 The strategy describes what the business is going to do. The operating model follows it and describes what functions the business will need in order to execute the strategy.
 

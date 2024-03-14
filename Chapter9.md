@@ -188,7 +188,7 @@ Not everything worked the way I wanted I was forced to:
 
 >There are circumstances where short-term objectives must be sacrificed in order to gain the long-term goal. This is the scapegoat strategy where someone suffers the consequences so that the rest do not.
 
-My plum tree was the component library and the component library team. One of the key features of the React framework is that everything is a component. Web pages are really very minor concerns in React there are merely places that describe what components will be displayed to the user. Components themselves can and should be decomposed into what are known as atoms, molecules and organisms 
+My plum tree was the component library and the component library team. One of the key features of the React framework is that everything is a component. Web pages are really very minor concerns in React there are merely places that describe what components will be displayed to the user. Components themselves can and should be decomposed into what are known as atoms, molecules and organisms
 
 -------------------------------------------------- insert book reference
 
