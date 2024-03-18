@@ -1,12 +1,13 @@
 # Chapter 1: Introduction to strategy
 
-Throughout my career I’ve been a part of numerous meetings supposedly defining strategies and I was never satisfied with the experience. I now realise that none of these meetings actually defined strategies. Over the years I’ve been part of groups creating mission statements, vision documents and objective and key result (OKR) statements. Over that time I’ve occasionally researched strategy and struggled to find anything written for technology or  business that wasn’t specifically a sales, marketing or social media strategy. That sets the scene for this book. This is the book I wished I’d found when I was trying to understand what strategy is and how it might be valuable to me and other engineers.
+Throughout my career I’ve been a part of many meetings that were trying to be defining strategies.. I now realise that none of these meetings actually defined strategies. Those groups created mission statements, vision documents and smart goals and OKRs. From time to time I would research strategy and never found anything written for product and technology businesses.  This is the book I wished I’d found when I was trying to understand what strategy is and how it might be valuable to me and my fellow engineers.
 
-The purpose of this first chapter is to examine the definition of strategy. This chapter will look at some simple strategies and examples of using them and  introduce the concept of a grand strategy.
+The purpose of this first chapter is to examine the definition of strategy. In addition this chapter will look at some simple strategies and examples of using them and  introduce the concept of a grand strategy.
 
 ## The definition of strategy
 
-The dictionary definitions of strategy are unhelpful. There are several different dictionaries in use throughout the world their definitions of strategy run along these lines:
+The dictionary definitions of strategy are unhelpful. There are several different dictionaries in use throughout the world, and generally, their definitions of strategy run along these lines:
+
 
 >**strategy** /ˈstratɪdʒi/ (noun).
 >
