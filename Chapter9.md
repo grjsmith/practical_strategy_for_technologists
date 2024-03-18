@@ -198,5 +198,17 @@ I could not convince Zoopla's leadership of this. I tried everything, including 
 
 My strategic approach helped keep me and the teams focused, we had the new platform up and running very quickly. We had the most important and complex page built a few months later without the help of a product manager and with the disruption of COVID lockdown in the middle of the project.
 
-## Marks and Spencer web platform
+## Marks and Spencer (M&S)
+
+Marks and Spencer wanted a very safe operating environment to support development of their e-commerce site, loyalty and reward programmes. They also intended to grow their own in-house development capability. They started the initiative with a handful of very skilled and dedicated people who had a goal to create a proof-of-concept cloud infrastructure and web platform. The concept they were trying to prove was whether a platform could be created with sufficient guardrails to allow developers to build the products they needed to but that would enforce just enough standards and quality to minimise outages and improve productivity.
+
+The M&S engineers were deeply suspicious of consultancies and so we needed to start by just being their supporters and sharing some advice as well as coding alongside them to demonstrate we could walk the walk as well as we talked the talk.
+
+M&S had defined some key features of the platform they wanted. They wanted it to be a cloud native implementation. They wanted CI/CD and they wanted React and Next.js because they liked them as a development environment and they wanted an off-the-shelf experimentation capability.
+
+I knew that what they were trying to prove was possible with all the tools they wanted to use because I had just done something similar at Zoopla with a very similar tech stack. From a technical perspective this was going to be a reasonably standard modernisation programme.
+
+The **identifiable pattern of actions that when performed in similar conditions that will achieve predictable results.** was a React/Next.js Monorepo using ESLint, 100% code coverage and all the scanning solutions security demanded deploying into Azure Service Apps.
+
+The interesting parts of working at M&S were how we built trust with the M&S people. We wanted a seat at the table when decisions were being made so we could be confident that the M&S team had heard a wide range of ideas before making their decision. We implemented a Decision Log that we kept in Github, we ensured there were always at least three people involved in laying out the options and choosing one. Given the size of the team at the time this gave us lots of opportunity to be included in the conversation. Even if we weren't the decision log process allowed a period for options to be added and decisions to be discussed.
 

@@ -150,22 +150,25 @@ The hexagonal operating model, shown below, is often used to describe how a vari
 
 It might also be used to show how a number of processes and technologies are deployed and integrated to serve a central business objective.
 
+</br>
 <img src="images/hexagonal_operating_model.png" alt="hexagonal operating model">
 </br>
 </br>
 
-The linear arrows operating model has fallen out of fashion recently but it was used to try and communicate that the business was relatively simple and involved a set of teams or processes that occurred one after another. While no business is really this simple the operating model focuses only on the primary business functions and this operating model tells the story of a set of teams who hand over from one to another.
+The linear arrows operating model has fallen out of fashion recently but it was used to try and communicate that the business model was relatively simple and involved a set of processes that happened one after another in order for the business to function. No business is really this simple. The operating model should not be trying to encapsulate every aspect of the complexity of the business, it is supposed to be a visual narrative to help people understand how the main  focus of the business will function. This operating model tells the story of a set of teams who only really need a relationship with one team upstream of them in the process and one team downstream. The implication of this is that good handovers should be a key feature of these individual functions processes.
 
+</br>
 <img src="images/linear_arrows_operating_model.png" alt="linear arrows operating model">
 </br>
 </br>
-The infinity operating model was very popular in the 2010's where it was often used to explain the DevOps paradigm where it was trying to get across the idea that teams build software and operate it. The infinity operating model is also often used to communicate the flow continuous learning flow of good product teams where they build the products, experiment with product features, learn what works and what doesn't and go back to the learning and experimenting.
+The infinity operating model was very popular in the 2010's where it was often used to explain the DevOps paradigm where it was trying to get across the idea that teams build software and operate it. The infinity operating model is also often used to communicate the  continuous learning flow of healthy product teams where they build the products, experiment with product features, learn what works and what doesn't and continue learning and experimenting to continuously improve the quality of the product.
 
+</br>
 <img src="images/infinity_operating_model.png" alt="Infinity operating model">
 </br>
 </br>
 
-The strategy describes what the business is going to do. The operating model follows it and describes what functions the business will need in order to execute the strategy.
+The strategy describes what the business is going to do. The operating model follows it and describes what functions the business will need and how they inter-operate with each other in order to execute the strategy.
 
 ### The organisational structure
 
