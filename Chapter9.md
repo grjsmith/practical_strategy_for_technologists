@@ -200,15 +200,33 @@ My strategic approach helped keep me and the teams focused, we had the new platf
 
 ## Marks and Spencer (M&S)
 
-Marks and Spencer wanted a very safe operating environment to support development of their e-commerce site, loyalty and reward programmes. They also intended to grow their own in-house development capability. They started the initiative with a handful of very skilled and dedicated people who had a goal to create a proof-of-concept cloud infrastructure and web platform. The concept they were trying to prove was whether a platform could be created with sufficient guardrails to allow developers to build the products they needed to but that would enforce just enough standards and quality to minimise outages and improve productivity.
+Marks and Spencer wanted an extremely safe operating environment to support development of their e-commerce site, loyalty and reward programmes. They also intended to grow their own in-house development capability. They started the initiative with a handful of very skilled and dedicated people who had a goal to create a proof-of-concept cloud infrastructure and web platform. The concept they were trying to prove was whether a platform could be created with sufficient guardrails to allow developers to build the products they needed to but that would enforce enough standards and quality to minimise outages and improve productivity.
 
 The M&S engineers were deeply suspicious of consultancies and so we needed to start by just being their supporters and sharing some advice as well as coding alongside them to demonstrate we could walk the walk as well as we talked the talk.
 
-M&S had defined some key features of the platform they wanted. They wanted it to be a cloud native implementation. They wanted CI/CD and they wanted React and Next.js because they liked them as a development environment and they wanted an off-the-shelf experimentation capability.
+M&S had defined some key features of the platform they wanted:
+
+- the platform had to use a cloud native implementation. - Fully automated CI/CD
+- React and Next.js because they liked them as a development environment
+- Industry standard, off-the-shelf, experimentation capability.
 
 I knew that what they were trying to prove was possible with all the tools they wanted to use because I had just done something similar at Zoopla with a very similar tech stack. From a technical perspective this was going to be a reasonably standard modernisation programme.
 
 The **identifiable pattern of actions that when performed in similar conditions that will achieve predictable results.** was a React/Next.js Monorepo using ESLint, 100% code coverage and all the scanning solutions security demanded deploying into Azure Service Apps.
 
-The interesting parts of working at M&S were how we built trust with the M&S people. We wanted a seat at the table when decisions were being made so we could be confident that the M&S team had heard a wide range of ideas before making their decision. We implemented a Decision Log that we kept in Github, we ensured there were always at least three people involved in laying out the options and choosing one. Given the size of the team at the time this gave us lots of opportunity to be included in the conversation. Even if we weren't the decision log process allowed a period for options to be added and decisions to be discussed.
+The interesting parts of working at M&S were how we built trust with the M&S people. We wanted a seat at the table when decisions were being made so we could be confident that the M&S team had heard a wide range of ideas before making their decision. We implemented a Decision Log that we kept in Github, we ensured there were always at least three people involved in laying out the options and choosing one. Given the size of the team at the time this gave us lots of opportunity to be included in the conversation. Even if we weren't included the decision log process allowed for discussion to take place.
+
+### Standards and conventions as a strategy
+
+The web platform was successful. The concept was proven, the value was delivered. I would have preferred it to have been delivered sooner but M&S was transforming it's way of working, it's leadership and it's engineering organisation and capability all at the same time so delays were inevitable.
+
+Throughout the development of the platform the leadership of the area of the business we were in changed. The group CTO, the overall sponsor of the work, changed. We stuck to the strategy. The need for a safe and fast platform for developing marksandspencer.com didn't change and so neither did our strategy. 
+
+This gained us a reputation for quality and consistency and so we were presented with more opportunities to help M&S in different parts of the business.
+
+Consistency and quality, underpinned by agreed standards and conventions, that evolve as the community needs them to can be a strategy. It provides a useful test for operating model and organisational changes. It provides a baseline that can be used to measure the impact of changes made whether they be organisational, capability, technical or product changes.
+
+This kind of strategy can be most valuable when the people in an organisation feel there is a lot of change and uncertainty. Their leadership and managers might change, the team they are in might change and their team missions might change but if they know what good code looks like and they have confidence in the tests and the platform they will be able to deliver good work.
+
+This takes us back to an observation I made earlier in the book. The military needs it's people to be able to do their jobs in all manner of adverse conditions. The weather might be poor, it might be impossible to use exactly the right equipment, they might even be under fire and yet they have to be able to do their jobs. In order to do this they train over and over again. We don't face those kinds of adverse conditions and we don't get to spend anything like as much time in training. What we can do is provide a safe, secure and comfortable working environment for our people if we do that we will get their best.
 
