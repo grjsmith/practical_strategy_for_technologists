@@ -1,40 +1,48 @@
 # Chapter 1: Introduction to strategy
 
-Throughout my career I’ve been a part of many meetings that were trying to be defining strategies.. I now realise that none of these meetings actually defined strategies. Those groups created mission statements, vision documents and smart goals and OKRs. From time to time I would research strategy and never found anything written for product and technology businesses.  This is the book I wished I’d found when I was trying to understand what strategy is and how it might be valuable to me and my fellow engineers.
+Throughout my career I’ve been a part of many meetings trying to define strategies. I now realise that none of those meetings ever resulted in strategies. Those groups created mission statements, vision documents, smart goals and OKRs. During this time I would often research strategy. I found a lot written about marketing strategy and sales strategy, I would find references to military and government strategy but I never found anything aimed at modern businesses. This is the book I wished I’d found when I was doing that research.
 
-The purpose of this first chapter is to examine the definition of strategy. In addition this chapter will look at some simple strategies and examples of using them and  introduce the concept of a grand strategy.
+The purpose of this first chapter is to help the strategist understand what a strategy is. Be able to recognise one when they see one. This chapter will also look at some simple strategies and examples of using them. 
 
 ## The definition of strategy
 
-The dictionary definitions of strategy are unhelpful. There are several different dictionaries in use throughout the world, and generally, their definitions of strategy run along these lines:
-
+The dictionary definition of strategy is not very helpful. There are several different dictionaries in use throughout the world, and generally, their definitions of strategy run along these lines:
 
 >**strategy** /ˈstratɪdʒi/ (noun).
+
 >
+
 >1. a plan of action designed to achieve a long-term or overall aim.
+
 >"time to develop a coherent economic strategy"
+
 >
+
 >2. the art of planning and directing overall military operations and movements in a war or battle.
+
 >"he was a genius when it came to military strategy"
 
-This seems to suggest that a strategy is just a plan that spans a long time period or it’s only useful in the context of war. That doesn’t seem right. If that were true why would there be sales strategies, marketing strategies and technology strategies. If strategies were just plans then why aren’t project managers writing them?
+This seems to suggest that a strategy is just a plan that takes a long time or it’s only useful in the context of war. That doesn’t seem right. If strategies were just plans then why aren’t project managers writing them? If strategies were only useful to the military sales and marketing strategies wouldn't exist.
 
-As the oldest human organisation the military has developed and used strategies for much longer than anyone else which may be why it’s so prominent in dictionary definitions. Even if you're completely new to the concept of strategy you've probably heard of a couple of military strategies for example The Pincer Movement or the Trojan horse.
+The military has developed and used strategies for much longer than anyone else. This may be why it’s so prominent in dictionary definitions. Even if you're completely new to the concept of strategy you've probably heard of some military strategies such as The Pincer Movement or the Trojan horse.
 
-In military terms The Pincer Movement is an attack where an adversary is caught between two forces and forced to deal with both simultaneously and ideally fall into chaos or retreat, either way the adversary is removed from the objective.
+The Pincer Movement is an attack where an adversary is caught between two forces and forced to deal with both simultaneously.
 
-Everyone knows the story of the Trojan horse. A besieging force left a giant horse statue as a tribute for the city they were besieging. Later that night after the statue was brought into the city soldiers snuck out who could open the gates and lead their forces to take the city.
+Everyone knows the story of the Trojan horse. A besieging force left a giant horse statue as a tribute for the city under siege. After the statue was brought into the city, soldiers hiding within, snuck out and opened the city gates.
+
 The pincer movement and the Trojan horse are both characterised by the fact that they can be reused in similar situations to achieve the same results.
 
-Perhaps a better definition of a strategy might be:
+Building on that perhaps a better definition of a strategy might be:
 
-**An identifiable pattern of actions that when performed in similar conditions will achieve predictable results.**
+An identifiable pattern of actions that when performed in similar conditions will achieve predictable results.
+
+This is helpful because it allows the strategist to research past strategies. 
 
 ## Applying military strategies in modern business
 
 Given the military's long history of working with strategy they are potentially a huge resource for us to draw upon when thinking about the problems we face in business.
 
-Let’s start with the Pincer Movement. In technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. The engineers would look in two or even three  places simultaneously. They would look at the application server logs looking for errors and at the data stores and or event messages to see if there are any problems persisting the transaction or any problems the next function has of trying to read that data.
+Let’s start with the Pincer Movement. In technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. The engineers would look in two or even three  places simultaneously. They would look at the application server logs looking for errors and at the data stores and or event messages to see if there are any problems persisting the transaction or any problems the next function has of trying to read that data.
 
 By tackling the problem on two fronts the teams could whittle away at the problem piece by piece.
 
@@ -49,6 +57,7 @@ In its simplest implementation web sites are connected to the internet but only 
 This describes the classic concentric ring security model. The image on the right (Image courtesy of West Lothian Archaeological Trust, Jim Knowles, Frank Scott and John Wells) shows an aerial view of an ancient Ring fort.
 
 <img src="images/Concentric Ring Security (1).png" alt="concentric ring security model" style=width:300px><img src="images/Multivallate_Ringfort_at_Rathrar_(Rathbarna_Enclosure_Complex),_Co_Roscommon,_Ireland.jpg" alt="aerial photo of a ringfort" style=width:300px align=right>
+
 <br />
 
 These are defensive strategies. When executed in the service of providing web applications to the internet it will work in any number of different situations. It can be deployed in AWS, Azure, Google Cloud Platform, in Data Centres, managed hosting services and various specialist Platform As A Service (PAAS) solutions or any combination of those hosting solutions. It will work with any programming languages, frameworks and for any data source be it SQL, NoSQL or a document data store. In the military and private security contexts this is also known as the Perimeter Security Model. This strategy was used to construct fortifications for thousands of years and is just as useful today in a technology context.
@@ -57,13 +66,13 @@ I can speak to anyone with security, network engineering or infrastructure skill
 
 ## The importance of planning
 
-When tackling larger problems or problems that, by their nature, require more time to solve, plans will often prove inadequate on their own. Plans are useful for solving short-term problems that are limited in scope. The reason why plans are not useful for larger or longer term initiatives is that they are easily disrupted. Hence the expression: 
+When tackling larger problems or problems that, by their nature, require more time to solve, plans will often prove inadequate on their own. Plans are useful for solving short-term problems that are limited in scope. The reason why plans are not useful for larger or longer term initiatives is that they are easily disrupted. Hence the expression:
 
 >"no plan survives contact with the enemy" Helmuth von Moltke the Elder.
 
 There's no such saying about strategy.
 
-In technology when tackling short-term objectives with a small number of reasonably mature teams with a capable delivery management structure it is possible to create an accurate plan for about 6 weeks. Any further out than that and the potential for disruption  increases to the point where it can't be planned for. This disruption can take many forms: funding for the project can be revoked, a new company could be acquired, important members of the team can leave, essential dependencies such as infrastructure or core libraries might become unavailable or not behave as expected. Even if these dramatic events don’t occur small changes will. A good delivery manager will keep on top of these changes. They will lead mitigation attempts, replanning and re-scoping but the longer this goes on for the more likely it is that these will overwhelm the teams. Seemingly small disruptions can have a chaotic effect and end up having a much larger impact than was initially predicted.
+In technology when tackling short-term objectives with a small number of reasonably mature teams with a capable delivery management structure it is possible to create an accurate plan for about 6 weeks. Any further out than that and the potential for disruption  increases to the point where it can't be planned for. This disruption can take many forms: funding for the project can be revoked, a new company could be acquired, important members of the team can leave, essential dependencies such as infrastructure or core libraries might become unavailable or not behave as expected. Even if these dramatic events don’t occur small changes will. A good delivery manager will keep on top of these changes. They will lead mitigation attempts, replanning and re-scoping but the longer this goes on for the more likely it is that these will overwhelm the teams. Seemingly small disruptions can have a chaotic effect and end up having a much larger impact than was initially predicted.
 
 Strategies can be useful at almost any scale and over medium or long timescales ranging from months to years. Multiple strategies can be chosen and layered to protect initiatives or the teams tackling certain problems. Strategies can provide a flexible structure within which short-term plans can be successful.
 
@@ -91,9 +100,9 @@ First of all we ran a training exercise, this was just like a military training 
 
 This achieved exactly the same things as military exercises do. It gave the engineers and designers confidence that we could do the rebrand. It gave marketing and the technology leaders confidence and we found a bunch of things that didn’t work that we could add to the backlogs of our teams to get resolved before we had to do the rebrand for real. We presented the new hideous pages to the rest of the company and everyone enjoyed the results.
 
-Having completed the exercise and got the fixes on to the backlogs the delivery manager started working with Design, Marketing, Product Marketing, Product Management and the product and technology leadership to form them into a steering committee that could review the work and make decisions but in an organised way that wouldn’t cause mixed communications and risk derailing the programme. We had seen evidence that Zoopla was going to run more of these programmes that involved multiple teams coordinating their work. The leadership didn’t necessarily agree or didn’t think  this kind of work needed different management than just in-team delivery management.  So another goal of ours was to demonstrate what programme management meant in an agile context.
+Having completed the exercise and got the fixes on to the backlogs the delivery manager started working with Design, Marketing, Product Marketing, Product Management and the product and technology leadership to form them into a steering committee that could review the work and make decisions but in an organised way that wouldn’t cause mixed communications and risk derailing the programme. We had seen evidence that Zoopla was going to run more of these programmes that involved multiple teams coordinating their work. The leadership didn’t necessarily agree or didn’t think  this kind of work needed different management than just in-team delivery management.  So another goal of ours was to demonstrate what programme management meant in an agile context.
 
-The Delivery Manager got the steering committee started on some early decision-making to design a strategy for the rebrand itself.  This involved creating a prioritised list of rebrand activities. He used this to create layers of scope. So the first priority was a new logo and some basic colour changes. Another layer of scope was spacing, typography and some menu and line type elements. Finally came new fonts and more complex changes. Those of us close to the tech were very confident that all of this could be completed in the time we had but the Delivery Manager used this layered scope approach to de-risk the programme, take pressure off the teams and cause the steering committee to coalesce into a team used to working together to make decisions. This was no mean feat given these people probably spent less than an hour together every week. This last part was all part of the effort to show how programmes could be run.
+The Delivery Manager got the steering committee started on some early decision-making to design a strategy for the rebrand itself.  This involved creating a prioritised list of rebrand activities. He used this to create layers of scope. So the first priority was a new logo and some basic colour changes. Another layer of scope was spacing, typography and some menu and line type elements. Finally came new fonts and more complex changes. Those of us close to the tech were very confident that all of this could be completed in the time we had but the Delivery Manager used this layered scope approach to de-risk the programme, take pressure off the teams and cause the steering committee to coalesce into a team used to working together to make decisions. This was no mean feat given these people probably spent less than an hour together every week. This last part was all part of the effort to show how programmes could be run.
 
 The rebrand came together and launched without any hitches, it was a bit of an anticlimax. The leadership team won some kudos with their peers in other departments. We demonstrated what a programme could look like and shortly after that we started recruiting for Programme Managers. I had almost no involvement beyond the training day but I was happy that we’d demonstrated how good the new tech stack was. The product and technology organisation got a significant morale boost too.
 
@@ -101,7 +110,7 @@ Grand Strategies are complex, they aren’t for tackling a single objective but 
 
 ## Conclusion
 
-Strategies aren’t plans, they aren’t mission statements, visions, goals, policies or anything else. Strategies are: **An identifiable pattern of actions that when performed in similar conditions will achieve the same results each time**. As such they offer the strategist a high degree of confidence of success.
+Strategies aren’t plans, they aren’t mission statements, visions, goals, policies or anything else. Strategies are: An identifiable pattern of actions that when performed in similar conditions will achieve the same results each time. As such they offer the strategist a high degree of confidence of success.
 
 Mission statements, visions, goals, policies and plans all have their use and their place, as does strategy. Some of these things can be used in service of strategic objectives and they will be presented in that context later in the book.
 
