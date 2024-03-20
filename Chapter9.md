@@ -188,9 +188,7 @@ Not everything worked the way I wanted I was forced to:
 
 >There are circumstances where short-term objectives must be sacrificed in order to gain the long-term goal. This is the scapegoat strategy where someone suffers the consequences so that the rest do not.
 
-My plum tree was the component library and the component library team. One of the key features of the React framework is that everything is a component. Web pages are really very minor concerns in React there are merely places that describe what components will be displayed to the user. Components themselves can and should be decomposed into what are known as atoms, molecules and organisms
-
--------------------------------------------------- insert book reference
+My plum tree was the component library and the component library team. One of the key features of the React framework is that everything is a component. Web pages are really very minor concerns in React there are merely places that describe what components will be displayed to the user. The Components should be deconstructed into atoms, molecules and organisms (search for Atomic Design for more information).
 
 This approach allows for very thorough testing of the basic elements of a web page. When those elements are brought together to make complex components they don't need as much testing. This in turn means they are developed faster and their development time is quickly becomes predictable.
 
@@ -224,9 +222,35 @@ Throughout the development of the platform the leadership of the area of the bus
 
 This gained us a reputation for quality and consistency and so we were presented with more opportunities to help M&S in different parts of the business.
 
-Consistency and quality, underpinned by agreed standards and conventions, that evolve as the community needs them to can be a strategy. It provides a useful test for operating model and organisational changes. It provides a baseline that can be used to measure the impact of changes made whether they be organisational, capability, technical or product changes.
+Consistency and quality, underpinned by agreed standards and conventions, that evolve as the community needs them to can be a strategy. It provides a useful test for operating model and organisational changes. It provides a baseline that can be used to measure the impact of changes whether they be organisational, capability, technical or product changes.
 
-This kind of strategy can be most valuable when the people in an organisation feel there is a lot of change and uncertainty. Their leadership and managers might change, the team they are in might change and their team missions might change but if they know what good code looks like and they have confidence in the tests and the platform they will be able to deliver good work.
+This kind of strategy can be most valuable when the people in an organisation feel there is a lot of change and uncertainty. Their leadership and managers might change, the team they are in might change and their team missions might change but if they that tomorrow will look something like today then they can still do good work.
 
-This takes us back to an observation I made earlier in the book. The military needs it's people to be able to do their jobs in all manner of adverse conditions. The weather might be poor, it might be impossible to use exactly the right equipment, they might even be under fire and yet they have to be able to do their jobs. In order to do this they train over and over again. We don't face those kinds of adverse conditions and we don't get to spend anything like as much time in training. What we can do is provide a safe, secure and comfortable working environment for our people if we do that we will get their best.
+Marks and Spencer engineers were more concerned with disruption coming from within than from outside so they used Machiavelli's fort strategy:
+
+>A prince who fears his own people more than he does foreigners should build fortresses; but he who has more cause to fear strangers than his own people should do without them.
+
+The fortress we built was made up of Javascript frameworks, types, infrastructure-as-code and a 100% test coverage, all backed by standards and principles.
+
+## Recharge
+
+Recharge are a very successful business with huge ambitions. They had built a platform for their business and iterated on it and refined it for 10 years. Engineers and Engineering leaders had come and gone. Some of the technologies were become hard to hire for. The business had grown in complexity and parts of the platform had fallen behind the state of the art when focus had been on solving other problems.
+
+Recharge asked us if we could help them bring some speed and agility back into their engineering capability. When we assessed their platform we found that Recharge were building some aspects of their platform that could be purchased as software-as-a-service implementations.
+
+I used Clauswitz' axiom of **'Utmost use of force'**. I recommended that Recharge consider purchasing some capabilities that had become industry standard since they started their business, things like order management and risk systems. Recharge took that to heart and additionally purchased a Product Information Management (PIM) system as well. We then relied on two frameworks React with Next.js and NestJS to give us a structure for front-end and backend services. These two combined also supported the idea of **'Utmost use of force'** because we spent as little time as possible building the structure of the apps and services allowing us to focus all of our combined efforts on the specific product and business logic that was needed to manage products, orders, payments, risk and fulfilling customers orders.
+
+## Conclusion
+
+Just because the strategist isn't invited to participate in creating a strategy that doesn't mean there aren't opportunities to create and use strategy. If the challenge is large in scope and will require more than a few weeks to solve then a strategic approach will be an advantage.
+
+The first step to creating or identifying appropriate strategies is to identify the operating environment of the organisation. If the organisation is incapable of executing a strategy then the first strategy that's needed is one that transforms the organisational capability.
+
+In particularly difficult environments multiple strategies will be needed. Sometimes these strategies run in parallel with different people tackling the same problem from different angles. Sometimes these strategies are executed in series as first one problem is solved and then another. The strategist's goal is to see those problems coming, place those problems into context and follow the strategy they've already identified or identify the strategy they need. This allows the teams to know they are acting in accordance with a pattern they are comfortable with.
+
+Strategies are:
+
+**An identifiable pattern of actions that when performed in similar conditions will achieve predictable results.**
+
+When designing strategies military strategies can provide useful guidance and inspiration for modern businesses. All that's needed is to replace the words enemy or adversary with problem and the words territory or geography with intellectual position, mindset or opinion.
 
