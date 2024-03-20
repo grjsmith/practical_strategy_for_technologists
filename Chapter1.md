@@ -1,8 +1,8 @@
 # Chapter 1: Introduction to strategy
 
-Throughout my career I’ve been a part of many meetings trying to define strategies. I now realise that none of those meetings ever resulted in strategies. Those groups created mission statements, vision documents, smart goals and OKRs. During this time I would often research strategy. I found a lot written about marketing strategy and sales strategy, I would find references to military and government strategy but I never found anything aimed at modern businesses. This is the book I wished I’d found when I was doing that research.
+Throughout my career I’ve been a part of many meetings trying to define strategies. I now realise that none of those meetings ever resulted in any strategies. Those groups created mission statements, vision documents, smart goals and OKRs. During this time I would often research strategy. I found a lot written about marketing strategy and sales strategy, I would find references to military and government strategy but I never found anything aimed at modern businesses. This is the book I wished I’d found when I was doing that research.
 
-The purpose of this first chapter is to help the strategist understand what a strategy is. Be able to recognise one when they see one. This chapter will also look at some simple strategies and examples of using them. 
+The purpose of this first chapter is to help the strategist understand what a strategy is and be able to recognise one when they see one. This chapter will also look at some simple strategies and examples of using them. 
 
 ## The definition of strategy
 
