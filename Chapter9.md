@@ -1,4 +1,4 @@
-# Chapter 8: Real world examples
+# Chapter 9: Real world examples
 
 In this chapter I’ll share examples of where I’ve solved problems using strategies. The purpose of this chapter is to demonstrate that an organisation doesn't have to ask for a strategy in order to benefit from one.
 

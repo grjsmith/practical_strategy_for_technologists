@@ -1,4 +1,4 @@
-# Writing a strategy
+# Chapter 8: Writing a strategy
 
 This chapter will present a few different formats for writing strategies. It will also present a number of essential documents, artefacts and processes that are needed to land a strategic message with all the necessary audiences and prepare the strategy for execution.
 
