@@ -2,57 +2,45 @@
 
 Throughout my career I’ve been a part of many meetings trying to define strategies. I now realise that none of those meetings ever resulted in any strategies. Those groups created mission statements, vision documents, smart goals and OKRs. During this time I would often research strategy. I found a lot written about marketing strategy and sales strategy, I would find references to military and government strategy but I never found anything aimed at modern businesses. This is the book I wished I’d found when I was doing that research.
 
-The purpose of this first chapter is to help the strategist understand what a strategy is and be able to recognise one when they see one. This chapter will also look at some simple strategies and examples of using them. 
+The purpose of this first chapter is to help the strategist understand what a strategy is and be able to recognise one when they see one. This chapter will also look at some simple strategies and examples of using them.
 
 ## The definition of strategy
 
 The dictionary definition of strategy is not very helpful. There are several different dictionaries in use throughout the world, and generally, their definitions of strategy run along these lines:
 
 >**strategy** /ˈstratɪdʒi/ (noun).
-
 >
-
 >1. a plan of action designed to achieve a long-term or overall aim.
-
 >"time to develop a coherent economic strategy"
-
 >
-
 >2. the art of planning and directing overall military operations and movements in a war or battle.
-
 >"he was a genius when it came to military strategy"
 
-This seems to suggest that a strategy is just a plan that takes a long time or it’s only useful in the context of war. That doesn’t seem right. If strategies were just plans then why aren’t project managers writing them? If strategies were only useful to the military sales and marketing strategies wouldn't exist.
+This seems to suggest that a strategy is just a plan that takes a long time or it’s only useful in the context of war. That doesn’t seem right. If strategies were just plans or only useful to the military we wouldn't talk about them so much in business.
 
 The military has developed and used strategies for much longer than anyone else. This may be why it’s so prominent in dictionary definitions. Even if you're completely new to the concept of strategy you've probably heard of some military strategies such as The Pincer Movement or the Trojan horse.
 
-The Pincer Movement is an attack where an adversary is caught between two forces and forced to deal with both simultaneously.
+The Pincer Movement is an attack where an opposing force is caught between two forces and forced to deal with both simultaneously. The Trojan horse strategy comes from an ancient story where a besieging force left a giant horse statue as a tribute for the city under siege. After the statue was brought into the city, soldiers hiding within the horse, snuck out and opened the city gates.
 
-Everyone knows the story of the Trojan horse. A besieging force left a giant horse statue as a tribute for the city under siege. After the statue was brought into the city, soldiers hiding within, snuck out and opened the city gates.
+The pincer movement and the Trojan horse can both be characterised by the fact that they can be reused in similar situations and will achieve the same results.
 
-The pincer movement and the Trojan horse are both characterised by the fact that they can be reused in similar situations to achieve the same results.
-
-Building on that perhaps a better definition of a strategy might be:
+Building on that an alternative definition of a strategy might be:
 
 An identifiable pattern of actions that when performed in similar conditions will achieve predictable results.
 
-This is helpful because it allows the strategist to research past strategies. 
+This is helpful because it allows the strategist to learn useful lessons from past strategies. These strategies can then be reused, used in series or parallel or combined in other interesting ways to solve novel problems. 
 
 ## Applying military strategies in modern business
 
-Given the military's long history of working with strategy they are potentially a huge resource for us to draw upon when thinking about the problems we face in business.
+Consider the Pincer Movement. In product and technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. The engineers would look in two or even three  places at the same time. They would look for errors in at the application server logs. They will also look to see what data is saved in the data stores. They will also look at event messages to understand where how far along the journey the customers are getting. By tackling the problem on multiple fronts simultaneously the team are likely to get to the root cause of the problem more quickly than they would if they just worked through each stage of the process one at a time.
 
-Let’s start with the Pincer Movement. In technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. The engineers would look in two or even three  places simultaneously. They would look at the application server logs looking for errors and at the data stores and or event messages to see if there are any problems persisting the transaction or any problems the next function has of trying to read that data.
-
-By tackling the problem on two fronts the teams could whittle away at the problem piece by piece.
-
-Considering problems as adversaries means many tried and tested strategies from military and business history become available. Let’s take a look at another example.
+Considering problems as adversaries means many tried and tested strategies from military and business history become available.
 
 ## Defensive Strategies
 
 There are defensive strategies as well as aggressive strategies. Consider a multi-layered network design that increases security by decreasing the attack vector with each layer of the network.
 
-In its simplest implementation web sites are connected to the internet but only allow a single port to access them. They in-turn connect to applications via an API layer that only allows the web servers to connect on that same SSH port. These API servers are then the only servers allowed to connect to the data sources and again only on the port specifically configured for those data sources.
+Web sites and mobile apps are connected to the internet but are only accessible form  a single port. In turn they connect to applications via an API that only allows them to connect on a specific port. These API servers are then the only servers allowed to connect to the data sources. Again they can only do this on the port configured for those data sources.
 
 This describes the classic concentric ring security model. The image on the right (Image courtesy of West Lothian Archaeological Trust, Jim Knowles, Frank Scott and John Wells) shows an aerial view of an ancient Ring fort.
 
