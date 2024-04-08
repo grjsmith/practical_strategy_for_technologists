@@ -90,33 +90,33 @@ In certain teams and in certain contexts these can be full-time jobs. More usual
 
 There’s no one-size-fits-all approach to leading teams. There is a danger of over-standardisation. When this happens there are various negative effects. Ambitious engineering managers placed in charge of teams in stable environments create problems. They will challenge, what they see, as out-of-date positions without understanding the bigger picture. This creates noise that needs to be dealt with. If left too long, the team will inevitably spend time on work that isn’t needed. This can poison a whole team as the work isn’t then accepted into the corpus of the software. Ambitious product managers and delivery managers forced to run stable products will eventually leave in frustration.
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 ### The trouble with Troikas
 
-Troikas are becoming increasingly popular at the moment. The idea is sound, unfortunately it rarely works in practice. A troika in this context would be a formal arrangement where a Product Manager, Delivery Manager and Engineering Manager lead  teams to build and manage a product.
+Troikas are becoming popular at the moment. The idea is sound, unfortunately it rarely works in practice. A troika, in this context, is where a Product Manager, Delivery Manager and Engineering Manager work together to lead a team or teams.
 
 In Dune, Frank Herbert writes that "*In politics, the tripod is the most unstable of all structures*".
 
-The reason for this is that in any group of three it is easier to agree things between two people and then the third is under pressure to come into alignment. product managers and delivery managers are often more accomplished communicators than engineering managers and more used to working toward consensus and so almost invariably the engineering manager is a frustrated quiet partner. The alternative is almost worse. Engineering managers who are frustrated with always coming second place, in such discussions, work themselves up into a besieged mentality and then they won’t budge because they don’t have the tools to negotiate.
+The reason for this is that in any group of three it is easier to agree things between two and then the third is under pressure to come into alignment. Product managers and delivery managers are often better communicators than engineering managers. They are also more used to working toward consensus. This usually results in the engineering manager becoming a frustrated quiet partner. The alternative is almost worse. Frustrated engineering managers can work themselves up into a seige mentality. They become intransigent because they don’t have the tools to negotiate.
 
-In particularly unhealthy environments the loudest voice wins every argument and there isn’t even an agreement with two people. This is also disastrous, it results in teams having objectives with no clearly defined business value or teams having clear vision but no path to deliver or they have great engineering principles but no product value to deliver and no way to consistently deliver anything.
+In particularly unhealthy environments the loudest voice wins every argument. Then there isn’t even an agreement between two people. This is also disastrous. This can lead to teams having objectives with no defined business value. Teams might have a clear vision but no way to deliver. The team might have great engineering principles but no product value to deliver and no way to deliver anything.
 
-If a product manager, delivery manager and an engineering manager can form a working relationship then it’s an unstoppable force but it can’t be forced into happening with an organisational structure or policy.
+If a product manager, delivery manager and an engineering manager can form a working relationship then it’s an unstoppable force. That relationship can’t be forced into happening with an organisational structure or policy.
 
-One of the reasons we were as successful as we were in Zoopla is because of just such a trio but it's telling that I, the engineer in the trio, had more than 10 years experience more than the other two. Had they been as experienced as me I suspect I wouldn’t have been able to keep up with them and perhaps we wouldn’t have been able to forge the great relationship that we had.
+One of the reasons we were as successful as we were in Zoopla is because of such a trio. It's telling that I, the engineer in the trio, had much more experience more than the other two. Had we been at the same points in our careers then I suspect I wouldn’t have been able to keep up with them. Perhaps then we wouldn’t have been able to forge the great relationship that we had.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 ### Budgeting
 
-The final element of method and discipline that Sun Tzu defined was the control of expenditure. His reasons for caring about this are different to ours but it’s no less important a point. First of all, the budget must be controlled at appropriate levels. That means it can’t just be controlled by the executive team. Budget accountability must be devolved to all levels of the organisation. An executive  team, asking a group of managers how much money they need once a year or once a quarter is not going to yield helpful results. Managers at that level aren’t operating with the right perspective to answer that question and if they are then they aren’t operating at the right level of detail to do their day jobs well. Instead there need to be flexible structures in place to allow teams to draw on budget as they need to. This needs management but that’s hardly a difficult challenge.
+The final element of method and discipline was the control of expenditure. First of all, the budget must be controlled at appropriate levels. That means it can’t just be controlled by the executive team. Budget accountability must be devolved to all levels of the organisation. An executive  team, asking a group of managers how much money they need once a year or once a quarter is not going to yield useful results. Managers at that level aren’t operating with the right perspective to answer that question. If they are then they aren’t operating at the right level of detail to do their day jobs well. Instead there needs to be flexible structures in place to allow teams to draw on budgets as they need to.
 
-The next aspect of budget management is ensuring that teams can respond to changes with budget expenditure where they need to spend it. Too often control over certain assets is centralised and poorly managed so there isn’t adequate flexibility. This leads to teams spending unproductive months building solutions they could have purchased.
+Teams also need to be able to respond to problems with budget expenditure rather than just engineering effort. With centralised budget control there  often isn’t adequate flexibility. This leads to teams spending unproductive time building solutions they could have purchased.
 
-This is what life was like before cloud computing. We had to plan server expenditure three years in advance because that was the period hardware was depreciated over. That was a ridiculous task and I have several examples where AOL UK missed out on significant opportunities simply because hardware wasn’t available. Thankfully those days are long gone but there are other assets that are subject to just such controls.
+It’s a common practice for organisations to give the older, worse spec laptops to contractors. That practice is idiotic. The organisation is paying upwards of 600 pounds a day for contractor expertise and flexibility. Then another department hamstrings them with an old machine. This happens because laptop budgets are being managed by a function that is only accountable for expenditure and not on the results. This is an example of inappropriate budget controls.
 
-It’s common practice for organisations to give the older, worse spec laptops to contractors. That practice is idiotic. Why pay someone 700 pounds a day for their expertise and flexibility and then hamstring them with a poor machine. This happens because laptop budgets are being managed centrally by a function that is only accountable for expenditure and not on the results being delivered. This is an example of inappropriate budget controls.
+Similar examples happen with network engineering and security systems. The teams implementing these systems often have little or no engagement in the process of delivering business value. It’s not their problem if the solutions they implement impact the ability for product teams to deliver value.
 
-Similar examples happen with network engineering and security systems. The teams implementing these systems often have little or no engagement in the process of delivering business value and so it’s not their problem if the solutions they implement impact the ability for product teams to deliver value.
+Appropriate budget controls need to be available to the people accountable for achieving business outcomes.
 
 ### Leadership tools
 
