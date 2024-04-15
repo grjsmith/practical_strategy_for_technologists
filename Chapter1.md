@@ -40,11 +40,11 @@ An identifiable pattern of actions that when performed in similar conditions wil
 
 Given the military's long history of working with strategy they are potentially a huge resource for us to draw upon when thinking about the problems we face in business.
 
-Starting with the Pincer Movement. In technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. Engineers trying to identift the problem would look in two places at once. They would look at the application server logs for errors. They would also look at the data stores and event messages to see how far transactions were getting.
+Starting with the Pincer Movement. In technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. Engineers trying to identify the problem would look in two places at once. They would look at the application server logs for errors. They would also look at the data stores and event messages to see how far transactions were getting.
 
 The term "Trojan Horse" has come to mean any strategy that allows someone to gain access through false pretences. A malicious piece of software that masquerades as something innocent is known as a Trojan.
 
-Considering problems as adversaries allows the strategist to pull inspiration from miltary history.
+Considering problems as adversaries allows the strategist to pull inspiration from military history.
 
 ## Defensive Strategies
 
