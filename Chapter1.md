@@ -32,7 +32,7 @@ Everyone knows the story of the Trojan horse. A besieging force left a giant hor
 
 The pincer movement and the Trojan horse are both easily recognised patterns of behaviour. They can also be reused in similar situations to achieve the same results.
 
-A mosre useful definition of a strategy might be:
+A more useful definition of a strategy might be:
 
 An identifiable pattern of actions that when performed in similar conditions will achieve predictable results.
 
