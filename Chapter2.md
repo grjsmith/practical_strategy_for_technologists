@@ -1,14 +1,14 @@
-# Chapter 2: Prerequisites for executing a strategy
+# Chapter 2: Understanding the organisation's operating environment
 
 The new definition of a strategy, proposed in chapter one mentions conditions:
 
 An identifiable pattern of actions that when performed in similar **conditions** will achieve the same results each time.
 
-This chapter will examine those conditions.
+This chapter will present a framework for defining those conditions.
 
 ## Sun Tzu’s Art of War
 
-Sun Tzu's wrote the Art of War roughly 2,500 years ago. In the first chapter Sun Tzu provides a structure for thinking about the conditions the strategist has to contend with.
+Sun Tzu wrote the Art of War roughly 2,500 years ago. In the first chapter Sun Tzu provides a framework for understanding an organisation's operating environment and readiness to execute a strategy.
 
 > The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field. These are: The Moral Law; Heaven; Earth; The Commander; Method and discipline.
 >
@@ -22,11 +22,11 @@ Sun Tzu's wrote the Art of War roughly 2,500 years ago. In the first chapter Sun
 >
 > By Method and discipline  are to be understood the marshalling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure.
 
-Sun Tzu's five constant factors provides a useful way for thinking about the conditions that will impact a strategy.
+Sun Tzu's five constant factors provide a useful way for thinking about the conditions that will impact a strategy.
 
 The moral law refers to the morale of the people in our teams. The strategist will rely on the teams to complete a variety of tactical objectives before the strategy is successful. To carry out a strategy the people must believe that they're doing the right thing for the right reasons. The people who make up product and technology departments are intelligent. Intelligent people need to understand the wider context they are working in.
 
-When people, in product and technology organisations, ask their leaders about strategy they’re sending a message. They're telling their leaders that they want to deliver something significant. They want to be part of something greater than their teams. They have understood that the company is looking to achieve some worthwhile outcome. They know strengths and weaknesses and are looking for a shared purpose to unite them.
+When people, in product and technology organisations, ask their leaders about strategy they’re sending a message. They're telling their leaders that they want to deliver something significant. They want to be part of something greater than their teams. They have understood that the company is looking to achieve some worthwhile outcome. They are looking for a shared purpose to unite them.
 
 Heaven signifies the temporal conditions affecting teams. Seasonality is a major factor in some businesses. Businesses that sell gifts are dependent on Valentines day, Mothers day, Christmas and other significant holidays. E-commerce businesses depend on black Friday and Christmas. Some European businesses shut down during the summer. All businesses operate in one or more timezones. Global businesses only get a few quiet hours a day. Businesses operating in a single or a few time zones don’t need the same kind of resiliency. They can work on their systems during their quiet periods. Many businesses have staff in different timezones. These businesses need to organise collaboration during their Goldilocks hours. Failing that these businesses might need to manage their work asynchronously. These are all conditions that the strategist needs to take into consideration.
 
@@ -64,7 +64,7 @@ In his book The Art of War, Baron De Jomini states that:
 
 >"…strategy fixes the direction of movements, and that we depend upon tactics for their execution."
 
-Sun Tzu’s five constant factors build up to the most important one which is the morale of the people executing the strategy. If teams aren't committed to the strategy they will never be successful. As such the tools and tactics for managing the condition will be presented in the reverse order to the way Sun Tzu presented them.
+This means teams need to be prepared to respond to the need for a tactical solution. Sun Tzu’s five constant factors build up to the most important one which is the morale of the people executing the strategy. If teams aren't committed to the strategy they will never be successful. As such the tools and tactics for managing the condition will be presented in the reverse order to the way Sun Tzu presented them.
 
 #### Method and Discipline
 
@@ -100,7 +100,7 @@ In particularly unhealthy environments the loudest voice wins every argument. Th
 
 If a product manager, delivery manager and an engineering manager can form a working relationship then it’s an unstoppable force. That relationship can’t be forced into happening with an organisational structure or a policy.
 
-One of the reasons I was successful in Zoopla is because of such a trio. It's telling that I, the engineer in the trio, had much more experience more than the other two. Had we been at the same points in our careers then I suspect I wouldn’t have been able to keep up with them. Perhaps then we wouldn’t have been able to forge the great relationship that we had.
+One of the reasons I was successful in Zoopla is because of such a trio. It's telling that I, the engineer in the trio, had much more experience more than the other two. Had we been at the same points in our careers then I suspect I wouldn’t have been able to keep up with them. Perhaps then we wouldn’t have been able to forge the great relationship we had.
 
 ##### Budgeting
 
@@ -152,6 +152,6 @@ Everything discussed up to now builds to this point. All the other four constant
 
 ## Conclusion
 
-The strategist needs to have all the conditions (or as Sun Tzu called them, constant factors) right if they are to stand a chance of having teams execute their strategy successfully. With even one systemic disfunction the chances of successful execution diminish.
+The first order of business for a strategist is to get the organisation to the point where it can successfully execute a strategy.
 
-This means that the first order of business for the strategist is to get the organisation to the point where it can successfully execute a strategy.
+Sun Tzu's Five Constant Factors provide the strategist with a useful framework for understanding an organisation's readiness.

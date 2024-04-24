@@ -61,6 +61,6 @@ When I joined Just Eat in 2016 there were already a couple of hundred microservi
 Strategies are important to product and technology organisations because:
 
 - they give leadership and management a tool to help them achieve their objectives
-- they can be expressed as stories. Stories can go viral and take up residency in people’s heads further reinforcing the message
+- strategies can be expressed as stories. Stories can go viral and take up residence in people’s heads further reinforcing the message
 - they encourage people in product or mission teams to solve problems without requiring expensive and time consuming planning and replanning exercises
 - They allow small groups of people to make changes that would otherwise be beyond their scope or capability.
