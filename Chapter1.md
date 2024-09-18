@@ -24,7 +24,7 @@ The dictionary definitions of strategy are unhelpful. There are several differen
 
 This seems to suggest that a strategy is just a plan that spans a long time period or it’s only useful in the context of war. That doesn’t seem right. If that were true why would there be sales strategies, marketing strategies and technology strategies. If strategies were just plans then why aren’t project managers writing them?
 
-As the oldest human organisation the military has developed and used strategies for much longer than anyone else. This may be why it’s so prominent in dictionary definitions. Even if you're completely new to the concept of strategy you've probably heard of a couple of military strategies. The Pincer Movement and the Trojan horse are some of the oldest and well known strategies.
+As the oldest human organisation the military has developed and used strategies for much longer than anyone else. This may be why it’s so prominent in dictionary definitions. Even if you're completely new to the concept of strategy you've probably heard of a couple of military strategies. The  Movement and the Trojan horse are some of tPincerhe oldest and well known strategies.
 
 The Pincer Movement is an attack where an adversary is caught between two forces and forced to deal with both simultaneously.
 
