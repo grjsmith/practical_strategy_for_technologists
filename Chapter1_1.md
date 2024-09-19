@@ -35,11 +35,11 @@ Richard Rumelt, author of Good Strategy/Bad Strategy, in an interview with Mckin
 
 That's as good a definition as any for us to work with. A strategy is _how_ an organisation overcomes the obstacles that stand in the way of their success. What happens next is what we'll examine in this book. Once an organisation has a strategy, they have defined how they want to achieve success. What happens next?
 
-As suggested by the title of this chapter the answer isn't planning. Planning is what we do once we know what we need our teams to achieve. There is an essential step between formulating a strategy and building a plan and executing it. That step is identifying tactics.
+As suggested by the title of this chapter the answer isn't planning. Planning is what we do once we know what we need our teams to achieve. There is an essential step between formulating a strategy and building a plan and executing it. That step is identifying, defining or designing tactics.
 
 ## Tactics
 
-Strategies are, by their nature, unique to a company, industry and even the time-period they are operating in. Tactics are not unique. Tactics are patterns of activities that people perform in order to achieve a strategic objective. Tactics are like memes in some respects. They are a way of describing a complex pattern of activities in a simple way. Consider the Pincer movement and the Trojan horse. 
+Strategies are, by their nature, unique to a company, industry and even the time-period they are operating in. Tactics are not unique. Tactics are patterns of activities that people perform in order to achieve a strategic objective. Tactics are like memes in some respects. They are a way of describing a complex pattern of activities in a simple way. Consider the Pincer movement and the Trojan horse.
 
 The Pincer Movement is an attack where an adversary is caught between two forces and forced to deal with both simultaneously.
 
@@ -47,40 +47,48 @@ Everyone knows the story of the Trojan horse. A besieging force left a giant hor
 
 The pincer movement and the Trojan horse are both easily recognised patterns of activities. They can also be reused in similar situations to achieve the same results.
 
-In technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. Engineers trying to identify the problem could look in two places at once. They could look at the application server logs for errors. They would also graph metrics from the data stores and event messages to see how far transactions were getting before they failed. In this scenarios the engineers split their forces to attack the problem from two sides simultaneously. They perform a Pincer movement on the problem.
+In technology our adversary is never an opposing force, it's a problem we need to overcome. Consider a problem on an e-commerce site. Customers are trying to place orders but they aren’t getting to a payment screen. Engineers trying to identify the problem should look in two places at once. They should look at the application server logs for errors. They should also graph metrics from the data stores and event messages to see how far transactions were getting before they failed. In this scenarios the engineers would split their forces to attack the problem from two sides simultaneously. They perform a Pincer movement on the problem.
 
-The term "Trojan Horse" has come to mean any tactix that allows someone to gain access through false pretences. A malicious piece of software that masquerades as something innocent is known as a Trojan.
+The term "Trojan Horse" has come to mean any tactic that allows someone to gain access through false pretences. A malicious piece of software that masquerades as something innocent is known as a Trojan.
 
 Considering problems as adversaries allows a tactician to pull inspiration from throughout military history.
 
-## Defensive Strategies
+## Defensive tactics
 
 There are defensive tactics as well as aggressive ones. Consider a multi-layered network design that increases security by decreasing the attack vector with each layer of the network.
 
 In its simplest implementation web sites are connected to the internet but only allow connections over a single port to access them. They in-turn connect to applications via an API layer that only allows the web servers to connect on that same SSH port. These API servers are then the only servers allowed to connect to the data sources and again only on the port specifically configured for those data sources. This describes the classic concentric ring security model.
 
-The image on the right shows an aerial view of an ancient Ringfort. The similarities are obvious and this isn't just correlation, this is causation. The rings in a ring fort and layers in a security model serve the same purpose. They are both trying to slow down an invader. They are both trying to protect increasingly valuable assets. Image courtesy of West Lothian Archaeological Trust, Jim Knowles, Frank Scott and John Wells.
+The image on the right shows an aerial view of an ancient Ringfort. The similarities are obvious and this isn't just correlation, this is causation. The rings in a ring fort and the layers in a security model serve the same purpose. They are both trying to slow down an invader. They are both trying to protect increasingly valuable assets.
+
 
 <img src="images/Concentric Ring Security (1).png" alt="concentric ring security model" style=width:300px><img src="images/Multivallate_Ringfort_at_Rathrar_(Rathbarna_Enclosure_Complex),_Co_Roscommon,_Ireland.jpg" alt="aerial photo of a ringfort" style=width:300px align=right>
 
 <br />
+Image courtesy of West Lothian Archaeological Trust, Jim Knowles, Frank Scott and John Wells.
+<br />
+<br />
 
-These are defensive tactics. This approach will work in AWS, Azure and Google Cloud Platform. It will work in Data Centres, managed hosting services and specialist PAAS solutions.  The strategy will work in any combination of hosting solutions. This strategy will work regardless of the programming languages or frameworks being used. It will work for any data source be it SQL, NoSQL, or a document data store. In military and security contexts this is also known as the Perimeter Security Model. This strategy was used to construct fortifications for thousands of years and is just as useful today in technology.
+These are defensive tactics. This approach will work in AWS, Azure and Google Cloud Platform. It will work in Data Centres, managed hosting facilities and specialist Platform-As-A-Service (PAAS) solutions. This tactic will work regardless of the programming languages or frameworks being used. It will work for any data source be it SQL, NoSQL, or a document data store.
 
-Anyone with a security, network or infrastructure background will already have a mental model of the concentric ring model. This is one of the great powers of tactics. A tactic is a pattern and humans are pattern matching machines.
+In military and security contexts this is also known as the Perimeter Security Model. This strategy has been used to construct fortifications for thousands of years and is just as useful today in a modern technology business. Anyone with a security, network or infrastructure background will already have a mental model of the concentric ring model. This is one of the great powers of tactics. A tactic is a pattern and humans are pattern matching machines. Just saying to an engineer that we're going to be using a concentric ring model can short cut hours of conversation.
+
+This is the power of tactics. They are memes, they are little stories that stick in people's heads. No matter how their brain works they will be able to retain a mental model of a tactic.
+
+Unfortunately tactics aren't taught to aspiring leaders. As we mature and grow in our professions we are taught to focus on details and planning. Later we start to learn about strategy. Many leaders will have a favourite strategy book and they might recommend their team read the book, as a part of bringing the team together around a strategic approach. We completely skip over tactics. In nearly 30 years working for technology organisations have I ever heard anyone discuss tactics. I have heard people discuss strategy, when they meant tactics. I have made this mistake myself many times. It was only when I talked to ex-military people did I begin to realise that the military deals almost exclusively with tactics. Strategy is something created by the most senior people, that most military people don't interact with on a daily basis. The rest of the officers are trained on tactics, as a tool, to implement strategy with their teams.
 
 If you've ever been part of a team and unsure how your team is contributing to the organisation's strategy then you are not alone. Very few organisations understand the link between strategy, tactics and planning.
 
-# The importance of planning
+## The importance of planning
 
-Plans are most useful for team level short term initiatives because they are so easily disrupted. Hence the expression: 
+Plans are most useful for team level short term initiatives because they are so easily disrupted. Hence the expression:
 > "no plan survives contact with the enemy"
 
 Helmuth von Moltke the Elder.
 
-A mature team, with a few small objectives, and good delivery management can create an accurate plan covering a 6 week timescale. Any further out than that and the potential for disruption starts to impact the accuracy. This disruption can take many forms. Funding for the project can be revoked. Company or department priorties can change. Members of the team can leave. Essential dependencies can become unavailable or incompatible. Even if these events don’t occur other small changes will. A good delivery manager can keep on top of these changes. They can lead mitigation efforts. They can replan and lead rescoping efforts.  The longer this goes on for the more likely it is that these will overwhelm the team and the initiative. Several small disruptions can have an outsize effect. This is particularly true in organisations with unmanaged dependencies, when any one team's action or inaction can disrupt any number of other teams.
+A mature team, with a few small objectives, and good delivery management, can create an accurate plan covering a 6 week timescale. Any further out than that and the potential for disruption starts to impact the accuracy. This disruption can take many forms. Funding for the project can be revoked. Company or department priorities can change. Members of the team can leave. Essential dependencies can become unavailable or incompatible. Even if these events don’t occur other small changes will. A good delivery manager or delivery focused product engineering manager can keep on top of these changes. They can lead mitigation efforts. They can re-plan and lead re-scoping efforts.  The longer this goes on for the more likely it is that these will overwhelm the team and the initiative. Several small disruptions can have an outsize effect. This is particularly true in organisations with unmanaged dependencies, when any one team's action or inaction can disrupt any number of other teams.
 
-Strategies and tactics can used in concert to protect initiatives and teams. They can provide a flexible structure allowing short-term, team-level plans to be coordinated and prioritised together and lead to a successful outcome in a way that plans on their own can't.
+Strategies and tactics can be used in concert to protect initiatives and teams. They can provide a flexible structure allowing short-term, team-level plans to be coordinated and prioritised together and lead to a successful outcome in a way that plans on their own can't. Strategies provide a larger context that allow a team to test whether what they are working on is the right thing. Tactics provide a narrative or meme that's easy for everyone in the team and department to remember so they can remind each other what they're trying to do. This is particularly helpful when teams need to talk to each other about different aspect of the work. If one team seems to have have different priorities teams can use the tactics they're working to implement as a framework for a conversation about why one team seems to be working on something else. This is the flexible structure mentioned earlier. A strategy to test prioritisation against and a tactic to guide and test alignment to objectives. Add on to that team-based planning and an organisation can specify a str
 
 >“Plans are worthless, but planning is everything.”
 
