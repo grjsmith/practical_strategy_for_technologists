@@ -92,7 +92,7 @@ A mature team, with a few small objectives, and good delivery management, can cr
 
 Strategies and tactics can be used in concert to protect initiatives and teams. They can provide a flexible structure allowing short-term, team-level plans to be coordinated and prioritised together. This can lead to a more successful outcome than plans can on their own. Strategies provide a larger context that allows a team to test whether what they are working on is the right thing. Tactics provide a narrative or meme that's easy for everyone in the team and department to remember so they can talk to each other about what they're trying to achieve. This is particularly helpful when teams need to talk to each other about different aspects of the work. If one team seems to have have different priorities teams can use the tactics as a framework for a conversation about why one team seems to be working on something else.
 
->“Plans are worthless, but planning is everything.”
+> “Plans are worthless, but planning is everything.”
 
 Dwight D. Eisenhower.
 
