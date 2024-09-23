@@ -2,7 +2,7 @@
 
 In Chapter 1 it was proposed that tactics are patterns of behavior that when used in similar situations can achieve repeatable results. Simple examples were given using a pincer movement and trojan horse tactics.
 
-This chapter will present a framework for managing situations to make successful implementation of tactics more likely.
+This chapter will present a framework for understanding the environment an organization operates within and the conditions inside an organization that can impact the likelihood of successfully implementing a tactical approach.
 
 ## Sun Tzu’s Art of War
 
@@ -152,4 +152,4 @@ Everything discussed up to now builds to this point. All the other four constant
 
 The first order of business for a tactician is to get the organization to the point where it can successfully execute a strategy.
 
-Sun Tzu's Five Constant Factors provide the strategist with a useful framework for understanding an organization's readiness for working towards a strategic objective.
+Sun Tzu's Five Constant Factors provide the strategist  and the tactician with a useful framework for understanding an organization's readiness for working towards a strategic objective using a tactical approach.

@@ -4,11 +4,15 @@ If tactics are: **patterns of activities that people perform in order to achieve
 
 In chapter 2 we examined a framework for describing the situation an organization finds itself in. Managing that situation can improve the chances of successfully executing a strategy. This chapter will examine how the tactician can define the results their tactics need to achieve. If the tactician knows that and can create the right situation then they can select or design their tactics with confidence.
 
+## Start with problems not solutions
+
 The first step towards formulating a tactical approach that can be successful is to define how the world must be different afterwards. People tend to think in terms of solutions, not in terms of problems. It’s very common for someone to explain what problem they’re having by explaining the solution they’re thinking of implementing. In almost all simple cases this is a useful trait, it helps people get to conclusions with less effort and less time. It’s a problem for the tactician when it becomes a habit. It gets over applied to more complicated problems that require more detailed analysis.
 
 When we were building the AOL Broadband Management System our first goal was to define the infrastructure it would need. We had no hardware budget for the project but we found some servers that had originally been assigned to the London cache but never installed. So we started with some nice overspecified Sun servers available. Not long after the project started the director of the department demanded to know where we’d get a Storage Attached Network (SAN). Thoughtworks said we needed one. When I asked why they said we needed one he explained that they  needed to store some configuration files that would be shared by multiple machines. After literally a moment’s thought I said: “Just write the files to every machine”. Problem solved. Originally destined to be cache servers, all the machines had a huge amount of disk space; a few extra config files would not be a problem. Both Thoughtworks and my Director had expressed the problem to me as a solution, the need for a SAN but in fact an expensive extra piece of infrastructure that would have added a long term maintenance burden to my team was not the right solution for that problem. Expressing the problem, as a problem, the need to access configuration information from each machine, allowed us to solve the problem without buying expensive and hard to maintain hardware.
 
 The advantage of taking a step back and ensuring you are working with the real problem is that in doing so you will be creating your case for your solution when it comes time to present it.
+
+## Five whys
 
 The Five Whys is an excellent tool to help with this. If you find yourself, either with a solution but no well defined problem, or you have a problem you’re struggling to articulate, the Five Whys will help you get to the root cause of the problem. After each question has been answered, you have an option to stop and choose to tackle the problem exposed at that level.
 
