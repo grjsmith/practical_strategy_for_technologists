@@ -1,6 +1,6 @@
 # Chapter 8: Writing a strategy
 
-This chapter will present a few different formats for writing strategies. It will also present a number of essential documents, artefacts and processes that are needed to land a strategic message with all the necessary audiences and prepare the strategy for execution.
+In this chapter we will examine three different strategies identifying useful features that the tactician can use to identify tactical approaches. We will also review a number of ancillary artifacts that can be created to improve the clarity of a strategy.
 
 ## Good Strategy/Bad Strategy
 
@@ -21,9 +21,9 @@ Good Strategy/Bad Strategy then goes on to define all sorts of characteristics t
 
 ## Examples of good strategies and bad strategies
 
-A lot of different types of organisations write strategies and share them. As a strategist studying the field care must be taken to identify the strategies that could have been written retrospectively. Governments and the military publish their strategies in advance. That makes them incredibly valuable resources because they aren't written to fit a narrative that has already been played out.
+A lot of different types of organizations write strategies and share them. The student of strategy must take care to identify the strategies that could have been written retrospectively. Governments and the military publish their strategies in advance. That makes them incredibly valuable resources because they aren't written to fit a narrative that has already been played out.
 
-Government strategies almost always lack a good problem statement. The reasons are probably different depending on the political system of the country. UK Government strategies are usually written by the civil service which uses a roll-up approach where teams and departments create strategy docs that are consumed by more senior civil servants who aggregate and summarise all the strategies of the departments that report to them. They then generate their strategies to be consumed by their ministers who then insert their requirements. These documents then get iterated on up and down the hierarchy. This is true whether the strategy is generated from inside the civil service because the strategy is about the operation of the government or if the strategy originates from within the party that's in power because the strategy is to enact policy.
+Government strategies almost always lack a good problem statement. The reasons are probably different depending on the political system of the country. UK Government strategies are usually written by the civil service which uses a roll-up approach where teams and departments create strategy docs that are consumed by more senior civil servants who aggregate and summarize all the strategies of the departments that report to them. They then generate their strategies to be consumed by their ministers who then insert their requirements. These documents then get iterated on up and down the hierarchy. This is true whether the strategy is generated from inside the civil service because the strategy is about the operation of the government or if the strategy originates from within the party in power.
 
 ### UK Digital Strategy
 
@@ -56,13 +56,13 @@ Regulations restricting innovation or implementation are a problem and the gover
 
 Research and Development will be through private investment or public investment through universities. Both of which will be encouraged by reducing the impact of regulation on innovation. Private investment will be additionally encourage through expanded R&D tax relief.
 
-There are a few additional initiatives around education but the two main levers the government intends to use are reducing regulation to foster innovation and various grants and funds to continue R&D at universities and taxation incentives to encourage private companies to innovation.
+There are a few additional initiatives around education but the two main levers the government intends to use are reducing regulation to foster innovation and various grants and funds to continue R&D at universities and taxation incentives to encourage private companies to innovate.
 
-This is where The approach of distilling the problem statement from the solution statements starts to fall apart. The UK Digital Strategy contains the word regulation 30 times and regulatory 31 times but only once mentions the specific regulations. Instead they refer to another document: Plan for digital regulation which in turn references a policy document: Digital Regulation: driving growth and unlocking innovation, which doesn't make mention of any specific changes although it does mention a few regulations and again makes a clear point about fostering investment.
+This is where The approach of distilling the problem statement from the solution statements starts to fall apart. The UK Digital Strategy contains the word regulation 30 times and regulatory 31 times but only once mentions the specific regulations. Instead they refer to another document: "Plan for digital regulation" which in turn references a policy document: "Digital Regulation: driving growth and unlocking innovation", which doesn't make mention of any specific changes although it does mention a few regulations and again makes a clear point about fostering investment.
 
 #### UK Digital Strategy Review
 
-The UK Digital Strategy is a bad strategy. It's enormous, and very difficult to consume. It has no problem statement. There are some solutions proposed but they are vague. No one reading this could ascertain whether an action taken by anyone was working towards the delivery of the strategy or against it.
+The UK Digital Strategy is a bad strategy. It's enormous, and very difficult to consume. It has no problem statement. There are some solutions proposed but they are vague. No tactician reading this could ascertain whether an action taken by anyone was working towards the delivery of the strategy or against it.
 
 ### British Army: Land Operating Concept
 
@@ -83,13 +83,15 @@ It then lays out five solutions:
 
 #### British Army: Land Operating Concept Review
 
-Concisely stated and unambiguous problem statements that are linked by an underlying theme. That theme comes across even stronger for anyone who has been following events in Ukraine.
+The Land Operating Concept is a good strategy.
 
-Clear solutions that present both an overall approach that acts as a thread through all the solutions but also clear actions.
+It has concise and unambiguous problem statements that are linked by an underlying theme.
+
+It contains solutions that present both an overall approach that acts as a thread through all the solutions but also clear next actions.
 
 Anyone in the British Army or any of it's partners implementing any task could easily check whether what they are doing will help or hinder this strategy.
 
-Both the British Army and UK Government strategy are huge in scope. Both these strategies have far reaching impacts on organisations all around the world, a large number of direct employees day-to-day lives will be different as a result of these strategies. One is clear, concise, actionable and can be used as test for any activity. The other one is hard to consume, makes very few clear statements, has no problem statement and can't be used to distill any kind of clear actions let alone determine if a task supports or obstructs the strategy.
+Both the British Army and UK Government strategy are huge in scope. Both these strategies have far reaching impacts on organizations all around the world, a large number of direct employees day-to-day lives will be different as a result of these strategies. One is clear, concise, actionable and can be used as test for any activity. The other one is hard to consume, makes very few clear statements, has no problem statement and can't be used to distill any kind of clear actions let alone determine if a task supports or obstructs the strategy.
 
 ### Australian Government Data Strategy 2021-2024
 
@@ -118,31 +120,37 @@ and a series of opportunities:
 
 #### Australian Government Data Strategy 2021-2024 Review
 
-The Australian Government Data Strategy takes an intelligent approach to problem statements. Instead of just stating clear problems instead it expresses needs and challenges. These are clear and would be easy to dispute or support for anyone trying to implement the strategy in their team or department.
+The Australian Government Data strategy is a good strategy.
+
+It takes an intelligent approach to problem statements. Instead of just stating clear problems instead it expresses needs and challenges. These are clear and would be easy to dispute or support for anyone trying to implement the strategy in their team or department.
 
 There are a clear set of priorities that are built on a previous set of priorities. So there is clear progression and a sense of a journey.
 
-## Supporting artefacts
+Given this is a government document and subject to all the bureaucracy present in any government department this is remarkably clear. That is because the authors went with the approach of stating needs rather than problems which meant they could avoid any claims of blame culture.
 
-One of the common problems people new to strategy experience is trying to solve too many problems with one document. The solution is to recognise that strategies don't exist in isolation.
+## Supporting artifacts
 
-The strategy just needs to present the problems and solutions in a way that's easy for it's audience to understand. The strategy doesn't have to design an organisation structure or an operating model, it doesn't need to communicate all the changes that will take place in order to achieve the strategy, it doesn't have to change processes or introduce or change governance, technology or the skills, knowledge and capability of the people who will be implementing it. The strategy also doesn't need to communicate to everyone impact by itself.
+One of the common problems people new to strategy experience is trying to solve too many problems with one document. The solution is to recognize that strategies don't exist in isolation.
 
-All those things can be done in different artefacts. The strategist will most likely be creating their strategy for and with people who are not familiar with strategy. Some of those people will have achieved their positions because they pay close attention to detail. Those people will struggle with statements that lay out solutions but don't provide a step-by-step guide to implementing them. The strategist needs to take these people on a journey through these additional artefacts to make best use of these people's capabilities but also to allow the strategy to be as simple as it needs to be.
+The strategy just needs to present the problems (or needs) and solutions in a way that's easy for it's audience to understand. The strategy doesn't have to design an organization structure or an operating model, it doesn't need to communicate all the changes that will take place in order to achieve the strategy, it doesn't have to change processes or introduce or change governance, technology or the skills, knowledge and capability of the people who will be implementing it. The strategy also doesn't need to communicate to all the different readers by itself.
+
+All those things can be done in different artifacts.
 
 ### Operating model
 
 Operating models (introduced in chapter 7) are a concise statement about the primary functions of the business and how they interact. Operating models are usually presented with a graphical presentation.
 
-The term primary functions means revenue generating or essential to support revenue generating functions everyday. Operating models will not show Human Resources, Finance, Legal or internal technical support functions. That isn't to say that a business doesn't need these functions but they don't need them every minute of everyday in to deliver services to customers.
+Operating models present the primary business functions. This means direct revenue generating functions. Operating models will not show Human Resources, Finance, Legal or internal technical support functions. These are essential functions but they aren't the business of the organization.
 
 The value of an operating model is that all the primary business functions are displayed on a single page. Relationships between each function are made clear by their relative position. Functions that operate in series will be presented in some sort of linear flow. Functions that operate in parallel, like platform services that service several functions, will be shown making it clear they have relationships with other functions simultaneously.
 
-In the very largest organisations operating models will be quite abstract often ignoring that the business is split into geographic territories. In smaller organisations the operating model maybe quite detailed in that it might name specific departments or even teams.
+In the very largest organizations operating models will be quite abstract often ignoring that the business is split into geographic territories. In smaller organizations the operating model may be quite detailed in that it might name specific departments or even teams.
 
-The operating model has two primary purposes. The first is to go into a little more detail about how the strategy will be executed. Specifically which functions will exist and what relationships they will have with each other to a support the execution of the strategy. The second purpose is testing. The operating model is the first test to determine if the organisation can execute the strategy. If the strategy requires two, currently separate functions, to work closely together it might highlight that a customer-client relationship will be subject to prioritisation problems and might cause the separation of those functions to be reconsidered. The operating model isn't just testing whether the strategy can be executed it might also be used to call into question the strategy itself. If the business isn't currently organised to execute the strategy that might mean the business needs to be re-organised but it might also mean that the strategy is inappropriate for this business as it currently is. There is a trap for the unwary strategist here. A strategy can never be too ambitious. This concern may be raised by those unfamiliar with strategy. When they are looking at the strategy and looking to find a plan but can't find one they will either conclude that the strategy is nonsense because it has no plan or that it's too ambitious because this business isn't ready for the kind of vision being proposed. If a business is currently ready for a given strategy, it doesn't need a strategy it just needs a plan.
+The operating model has two primary purposes. The first is to go into a little more detail about how the strategy will be executed. Specifically which functions will exist and what relationships they will have with each other to a support the execution of the strategy. The second purpose is testing. The operating model is the first test to determine if the organization is prepared to execute the strategy. If the strategy requires two, currently separate functions, to work closely together it might highlight that a customer-client relationship will be subject to prioritization problems and might cause the separation of those functions to be reconsidered.
 
-The second set of tests happens when the strategy and the operating model are published. Anyone in the organisation, who is involved in the businesses primary functions will see the sorts of relationships they are expected to have with other functions of the business and they can examine it and determine how their function will need to change and how their relationships with other functions will change. This might highlight inefficiencies that may have to be mitigated.
+The operating model isn't just testing whether the strategy can be executed it might also be used to call into question the strategy itself. If the business isn't currently organized to execute the strategy that might mean the business needs to be re-organized but it might also mean that the strategy is inappropriate for this business as it currently is. There is a trap for the unwary strategist here. A strategy can never be too ambitious. This concern may be raised by those unfamiliar with strategy. When they are looking at the strategy and looking to find a plan but can't find one they will either conclude that the strategy is nonsense because it has no plan or that it's too ambitious because this business isn't ready for the kind of vision being proposed. If a business is currently ready for a given strategy, it doesn't need a strategy it just needs a plan.
+
+The second set of tests happen when the strategy and the operating model are published. Anyone in the organization, who is involved in the businesses primary functions will see the sorts of relationships they are expected to have with other functions of the business and they can examine it and determine how their function will need to change and how their relationships with other functions will change. This might highlight inefficiencies that may have to be mitigated.
 
 A great example of where this has value is when a business is considering creating a platform type function. The operating model explicitly calls out who that platform function is providing services to and everyone can see how many different types of interactions they'll need to support. That then leads to the next set of questions about capacity and the variety of expertise that will be needed in that platform function. This is a great way to determine how technology functions should operate in businesses.
 
