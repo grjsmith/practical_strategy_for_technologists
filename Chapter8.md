@@ -1,6 +1,6 @@
-# Chapter 8: Writing a strategy
+# Chapter 8: Engaging with and testing a strategy
 
-In this chapter we will examine three different strategies identifying useful features that the tactician can use to identify tactical approaches. We will also review a number of ancillary artifacts that can be created to improve the clarity of a strategy.
+In this chapter we will examine three different strategies identifying useful features that the tactician can use to identify tactical approaches. We will also review a number of ancillary artifacts that can be created to improve the clarity of a strategy. We
 
 ## Good Strategy/Bad Strategy
 
